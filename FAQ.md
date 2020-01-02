@@ -18,7 +18,9 @@
 
   **Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?  
   **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.  
+
   The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.  
+  
   Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.  
 
   **Q:** Should I keep a journal?  
