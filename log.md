@@ -25,3 +25,11 @@
 **Links to work:**
 1. [Tribute Page](https://github.com/AlvinoNguyen/Tribute-Page)
 2. [Survey Form](https://github.com/AlvinoNguyen/Survey-Form)
+
+### Day 4: January 4, Saturday
+
+**Today's Progress**: Added new types of input to the survey form, including a dropdown, radio buttons, checkboxes, and a text area. Also added basic styling to the form.
+
+**Thoughts**: There was not as much progress as I wanted today. I got a bit lazy during the middle of the day, and therefore didn't get to coding until the evening. However, I did get a lot of coding done because I also coded for my work today. However, according to the [rules](rules.md), if I code at work, that time won't count towards the challenge.
+
+**Link to work:** [Survey Form](https://github.com/AlvinoNguyen/Survey-Form)
