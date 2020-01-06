@@ -33,3 +33,11 @@
 **Thoughts**: There was not as much progress as I wanted today. I got a bit lazy during the middle of the day, and therefore didn't get to coding until the evening. However, I did get a lot of coding done because I also coded for my work today. However, according to the [rules](rules.md), if I code at work, that time won't count towards the challenge.
 
 **Link to work:** [Survey Form](https://github.com/AlvinoNguyen/Survey-Form)
+
+### Day 5: January 5, Sunday
+
+**Today's Progress**: Finished styling the survey form.
+
+**Thoughts**: CSS is easy to learn, yet hard to master. I will need a lot more practice if I want to be able to call myself 'proficient' in CSS. However, I'm happy with the way I styled the survey form, but I know that there are more elegant ways to achieve the same styling that I coded up.
+
+**Link to work**: [Survey Form](https://github.com/AlvinoNguyen/Survey-Form)
