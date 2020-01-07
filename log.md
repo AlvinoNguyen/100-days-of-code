@@ -41,3 +41,11 @@
 **Thoughts**: CSS is easy to learn, yet hard to master. I will need a lot more practice if I want to be able to call myself 'proficient' in CSS. However, I'm happy with the way I styled the survey form, but I know that there are more elegant ways to achieve the same styling that I coded up.
 
 **Link to work**: [Survey Form](https://github.com/AlvinoNguyen/Survey-Form)
+
+### Day 6: January 6, Monday
+
+**Today's Progress**: Created the skeleton code for the product landing page according to the HTML user stories specified by freeCodeCamp. Also started styling the page.
+
+**Thoughts**: This project has a larger CSS portion because you have to create a more complex layout using Flexbox. This project also requires that you use media queries to make the page more responsive, which is something I need to learn how to do better. I also want to get into the habit of creating my layouts *mobile-first*, and then adding media queries later for desktop layouts. I think this project will take significantly longer than the last two, so I may start up another project before I finish this one.
+
+**Link to work**: [Product Landing Page](https://github.com/AlvinoNguyen/Product-Landing-Page)
