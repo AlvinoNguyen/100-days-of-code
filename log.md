@@ -49,3 +49,11 @@
 **Thoughts**: This project has a larger CSS portion because you have to create a more complex layout using Flexbox. This project also requires that you use media queries to make the page more responsive, which is something I need to learn how to do better. I also want to get into the habit of creating my layouts *mobile-first*, and then adding media queries later for desktop layouts. I think this project will take significantly longer than the last two, so I may start up another project before I finish this one.
 
 **Link to work**: [Product Landing Page](https://github.com/AlvinoNguyen/Product-Landing-Page)
+
+### Day 7: January 7, Tuesday
+
+**Today's Progress**: Continued styling the product landing page. In particular, I added responsive styles to the mini-form, the features section, and the footer.
+
+**Thoughts**: I'm noticing that I have to repeat myself a lot when coding CSS today. To alleviate this, I should get used to working with the more complex features of CSS, like variables and functions. I should also look into Sass and maybe even Bootstrap, but those are for another time. I think I'll have this project done by the end of the week, and I'm still debating on what I should work on after, since I'm getting bored on pure HTML/CSS.
+
+**Link to work**: [Product Landing Page](https://github.com/AlvinoNguyen/Product-Landing-Page)
