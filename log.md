@@ -54,7 +54,7 @@
 
 **Today's Progress**: Continued styling the product landing page. In particular, I added responsive styles to the mini-form, the features section, and the footer.
 
-**Thoughts**: I'm noticing that I have to repeat myself a lot when coding CSS today. To alleviate this, I should get used to working with the more complex features of CSS, like variables and functions. I should also look into Sass and maybe even Bootstrap, but those are for another time. I think I'll have this project done by the end of the week, and I'm still debating on what I should work on after, since I'm getting bored on pure HTML/CSS.
+**Thoughts**: I'm noticing that I have to repeat myself a lot when coding CSS today. To alleviate this, I should get used to working with the more complex features of CSS, like variables and functions. I should also look into Sass and maybe even Bootstrap, but those are for another time. I think I'll have this project done by the end of the week, and I'm still debating on what I should work on after, since I'm getting bored of pure HTML/CSS.
 
 **Link to work**: [Product Landing Page](https://github.com/AlvinoNguyen/Product-Landing-Page)
 
@@ -62,8 +62,7 @@
 
 **Today's Progress**: Finished the product landing page. Solved Problems 1 and 2 on Project Euler using Javascript.
 
-**Thoughts**:
-Now that the product landing page is finished, I can reflect on things that I can improve on when it comes to CSS. Most importantly, I need to get into the habit of planning out the layout of my page before rushing into projects. I believe my code will be formatted way better if I have a general idea of what I want my page to look like beforehand. This includes properties such as coloring, size, and responsiveness. Also, I need to get used to using CSS variables more often to make my code more readable and writeable.
+**Thoughts**: Now that the product landing page is finished, I can reflect on things that I can improve on when it comes to CSS. Most importantly, I need to get into the habit of planning out the layout of my page before rushing into projects. I believe my code will be formatted way better if I have a general idea of what I want my page to look like beforehand. This includes properties such as coloring, size, and responsiveness. Also, I need to get used to using CSS variables more often to make my code more readable and writeable.
 
 Secondly, from now on, I want to incorporate a bit of rigorous problem solving into my 100 Days of Code challenge. My plan is to supplement my normal project coding with coding puzzles from sites such as [Project Euler](https://projecteuler.net/), [Leetcode](https://leetcode.com/), and possibly even [Codeforces](http://codeforces.com/). In addition to Javascript, I want to sharpen my C++ skills for the sake of coding interviews. However, I won't make it a mandatory rule because of how much problem solving I already do in my classes.
 
@@ -79,11 +78,11 @@ Secondly, from now on, I want to incorporate a bit of rigorous problem solving i
 
     for(let i = 1; i < 1000; i++) {
         if(i % 3 == 0)
-        sum += i;
+            sum += i;
         if(i % 5 == 0)
-        sum += i;
+            sum += i;
         if(i % 15 == 0)
-        sum -= i;
+            sum -= i;
     }
 
     console.log(sum);
@@ -95,11 +94,10 @@ Secondly, from now on, I want to incorporate a bit of rigorous problem solving i
     <br>
 
     ```js
-    sum = 2;
+    let sum = 2;
 
     let f_n_1 = 2;
     let f_n_2 = 1;
-
     let f_n = f_n_2 + f_n_1;
 
     while(f_n < 4000000) {
@@ -109,6 +107,106 @@ Secondly, from now on, I want to incorporate a bit of rigorous problem solving i
         f_n = f_n_2 + f_n_1;
     }
 
-    console.log(sum)
+    console.log(sum);
+    ```
+    </details>
+
+### Day 9: January 9, Thursday
+
+**Today's Progress**: Created the skeleton code for the technical documentation page according to the user stories specified by freeCodeCamp. Also solved three problems on Leetcode in C++.
+
+**Thoughts**: I'm starting to notice how much faster I can get going when it comes to HTML/CSS projects compared to when I first started, so I'm making progress! For this project, I'm taking the opportunity of the subject to learn about [AWK](https://en.wikipedia.org/wiki/AWK), a domain-specific language designed for text processing and typically used as a data extraction and reporting tool. Hopefully the learning time doesn't cut too much into coding time!
+
+On the other hand, I'm glad to be coding in C++ again. It's not like I have to relearn the basics, but I'm constantly looking up the methods of STL data structures. Hopefully as I solve more problems, I'll drill the most common methods back into my brain.
+
+**Links to work**:
+1. [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
+2. [Reverse String](https://leetcode.com/problems/reverse-string/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+    
+    ```cpp
+    void reverseString(vector<char>& s) {
+        // Initialize pointers
+        int start = 0;
+        int end = s.size() - 1;
+
+        while(start < end) {
+            // Swap values at pointers
+            char temp = s[start];
+            s[start] = s[end];
+            s[end] = temp;
+            
+            // Move pointers
+            start++;
+            end--;
+        }
+    }
+    ```
+    </details>
+3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```cpp
+    bool isAnagram(string s, string t) {
+        unordered_map<char, int> map;
+
+        // Adding characters of s to map
+        for(int i = 0; i < s.size(); i++) {
+            if(map.find(s[i]) != map.end())
+                map[s[i]]++;
+            else
+                map[s[i]] = 1;
+        }
+
+        // Removing characters of t from map
+        for(int i = 0; i < t.size(); i++) {
+            if(map.find(t[i]) != map.end())
+                map[t[i]]--;
+            else
+                return false;
+        }
+
+        // Checking if keys in map have a value of 0
+        for(auto i: map) {
+            if(i.second != 0)
+                return false;
+        }
+
+        return true;
+    }
+    ```
+    </details>
+4. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```cpp
+    int firstUniqChar(string s) {
+        unordered_map<char, int> map;
+        
+        // Add unique characters to map
+        for(int i = 0; i < s.size(); i++) {
+            if(map.find(s[i]) == map.end())
+                map[s[i]] = i;
+            else
+                map[s[i]] = -1;
+        }
+        
+        // Find first unique character in map
+        int min = INT_MAX;
+        for(auto i: map) {
+            if(i.second != -1 && i.second < min)
+                min = i.second;
+        }
+        
+        // Return -1 if index is not found,
+        // otherwise, return the minimum index
+        return min == INT_MAX ? -1 : min;
+    }
     ```
     </details>
