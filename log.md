@@ -210,3 +210,84 @@ On the other hand, I'm glad to be coding in C++ again. It's not like I have to r
     }
     ```
     </details>
+
+### Day 10: January 10, Friday
+
+**Today's Progress**: Completed the styling for the technical documentation page, as well as added more content. Solved three problems on Leetcode in C++.
+
+**Thoughts**: My CSS is a lot more readable and consise than the last project! This is thanks to both the simple layout of my page, as well as my use of CSS variables. Despite all of this, I don't necessarily think my styling looks good, but I suppose that comes with practice. My goal is to be able to style modern-looking web pages with pure CSS.
+
+**Links to work**:
+1. [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
+2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```cpp
+    int maxProfit(vector<int>& prices) {
+        // Represents the current minimum
+        // on a given day
+        int min = INT_MAX;
+        // Represents the best possible
+        // transaction on a given day
+        int max = 0;
+
+        for(int i = 0; i < prices.size(); i++) {
+            // Update min if necessary
+            if(prices[i] < min)
+                min = prices[i];
+
+            // Update max if necessary
+            if(prices[i] - min > max)
+                max = prices[i] - min;
+        }
+
+        return max;
+    }
+    ```
+    </details>
+3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```cpp
+    bool containsDuplicate(vector<int>& nums) {
+        unordered_set<int> set;
+        
+        for(int i = 0; i < nums.size(); i++) {
+            // Insert int into set if it's unique
+            if(set.find(nums[i]) == set.end())
+                set.insert(nums[i]);
+            else
+                return true;
+        }
+        
+        return false;
+    }
+    ```
+    </details>
+4. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```cpp
+    void moveZeroes(vector<int>& nums) {
+        // Keeps track of index to place value
+        int index = 0;
+
+        // Place all non-zero values in front
+        for(int i = 0; i < nums.size(); i++) {
+            if(nums[i] != 0)
+                nums[index++] = nums[i];
+        }
+
+        // All non-zero values are placed in front,
+        // so all values are zero in the back
+        for(int i = index; i < nums.size(); i++)
+            nums[i] = 0;
+    }
+    ```
+    </details>
