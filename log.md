@@ -291,3 +291,14 @@ On the other hand, I'm glad to be coding in C++ again. It's not like I have to r
     }
     ```
     </details>
+
+### Day 11: January 11, Saturday
+
+**Today's Progress**: Added more HTML content to the technical documentation page. Also made the content more semantic.
+
+**Thoughts**: Today was a bit unproductive when it comes to web development, but it's okay, because I'm done with the technical documentation page! Working on this project also helped me learn the basics of AWK a little better, and I'm hoping that I'll be able to apply this knowledge in the future! I'm proud of how I did on this project because how much more elegant my code looks on both the HTML and CSS side.
+
+The next project I'm supposed to work on is my personal portfolio, but I'm going to hold off on working on that for now. I think the best thing for me to do now is to practice my Javascript and hopefully move onto React!
+
+**Links to work**:
+1. [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
