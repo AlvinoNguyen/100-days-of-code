@@ -300,5 +300,12 @@ On the other hand, I'm glad to be coding in C++ again. It's not like I have to r
 
 The next project I'm supposed to work on is my personal portfolio, but I'm going to hold off on working on that for now. I think the best thing for me to do now is to practice my Javascript and hopefully move onto React!
 
-**Links to work**:
-1. [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
+**Link to work**: [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
+
+### Day 12: January 13, Monday
+
+**Today's Progress**: Set up a [Create React App](https://github.com/facebook/create-react-app) page for the random quote machine as specified by the user stories on freeCodeCamp. Set up the skeleton code for styling for the page.
+
+**Thoughts**: Unfortunately, yesterday was my first missed day of the 100 Days of Code challenge. However, it's time to pick myself back up and continue to build my developer skills. Today, I decided to start up the Front End Libraries Projects, which turned out to be a great idea! The random quote machine is a good starting project for React, because the components are very simple. However, to finish the project, I'm gonna have to learn about stateful components and fetch in Javascript. Hopefully this won't be too big of a learning curve!
+
+**Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
