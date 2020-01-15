@@ -309,3 +309,11 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 **Thoughts**: Unfortunately, yesterday was my first missed day of the 100 Days of Code challenge. However, it's time to pick myself back up and continue to build my developer skills. Today, I decided to start up the Front End Libraries Projects, which turned out to be a great idea! The random quote machine is a good starting project for React, because the components are very simple. However, to finish the project, I'm gonna have to learn about stateful components and fetch in Javascript. Hopefully this won't be too big of a learning curve!
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
+
+### Day 13: January 14, Tuesday
+
+**Today's Progress**: Added the skeleton code for props and state for the appropriate componenets in the random quote machine.
+
+**Thoughts**: Today, I spent a long time getting used to writing React componenets, so I did a lot of experimenting. In particular, I learned about the props and state, and I'm currently learning about how to handle events in React. After I learn that, I'll need to learn about Javascript fetch in order to finish this project. This is my favorite project so far, so I don't mind all the learning!
+
+**Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
