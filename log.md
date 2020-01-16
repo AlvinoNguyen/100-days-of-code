@@ -317,3 +317,11 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 **Thoughts**: Today, I spent a long time getting used to writing React componenets, so I did a lot of experimenting. In particular, I learned about the props and state, and I'm currently learning about how to handle events in React. After I learn that, I'll need to learn about Javascript fetch in order to finish this project. This is my favorite project so far, so I don't mind all the learning!
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
+
+### Day 14: January 15, Wednesday
+
+**Today's Progress**: Added color as a state property for the random quote machine. Also added random color functionality to the app.
+
+**Thoughts**: Now that I'm starting to learn new things while simultaneously working on projects at the same time, my progress is gonna be slower than it has been in the past 14 days. However, doing these projects also means that I'll learn about web development more effectively! That being said, I'm not sure if I should move on to another project and come back to the random quote machine when I know more about fetch, or if I should continue working and eventually finish this project. That's a decision for another day!
+
+**Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
