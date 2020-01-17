@@ -325,3 +325,11 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 **Thoughts**: Now that I'm starting to learn new things while simultaneously working on projects at the same time, my progress is gonna be slower than it has been in the past 14 days. However, doing these projects also means that I'll learn about web development more effectively! That being said, I'm not sure if I should move on to another project and come back to the random quote machine when I know more about fetch, or if I should continue working and eventually finish this project. That's a decision for another day!
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
+
+### Day 15: January 16, Thursday
+
+**Today's Progress**: Added a feature that fetches random quotes online.
+
+**Thoughts**: It only took a bit of experimenting, but I was able to use Javascript fetch to get random quotes online in JSON format, which is then integrated into my app. I also attempted to link the media buttons to their respective pages so that the quotes are already typed up when they go to the website. The problem I faced was that I couldn't put functions inside of my data/*.js files. There is probably a better way to do what I wanted to do, so I will keep learning and following tutorials. Tomorrow, I should be wrapping up this project.
+
+**Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
