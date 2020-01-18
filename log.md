@@ -333,3 +333,56 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 **Thoughts**: It only took a bit of experimenting, but I was able to use Javascript fetch to get random quotes online in JSON format, which is then integrated into my app. I also attempted to link the media buttons to their respective pages so that the quotes are already typed up when they go to the website. The problem I faced was that I couldn't put functions inside of my data/*.js files. There is probably a better way to do what I wanted to do, so I will keep learning and following tutorials. Tomorrow, I should be wrapping up this project.
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
+
+### Day 16: January 17, Friday
+
+**Today's Progress**: Finished the random quote machine. Completed two problems on freeCodeCamp's JavaScript Algorithms and Data Structures Projects.
+
+**Thoughts**: I don't know why, but I didn't run into the problem of putting functions inside of my data/*.js files. From there, making the media buttons work was pretty easy, and now there's not much more I need to do in terms of functionality. I could try to add animations to the app, but that's something I want to save for later.
+
+There's not much to say about the problems I solved since they were straightforward. There are three more project problems on freeCodeCamp, and they are a lot more difficult than the ones I solved today. If I have time, maybe I'll finish them over the weekend.
+
+**Links to work**:
+1. [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
+2. [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```js
+    function palindrome(str) {
+        let l = 0;
+        let r = str.length - 1;
+        while(l < r) {
+            const regex = /[A-Z0-9]/i;
+            while(!regex.test(str.charAt(l))) l++;
+            while(!regex.test(str.charAt(r))) r--;
+
+            if(l >= r) return true;
+            const lChar = str.charAt(l);
+            const rChar = str.charAt(r);
+            if(lChar.toLowerCase() != rChar.toLowerCase()) return false;
+            l++; r--;
+        }
+        return true;
+    }
+    ```
+    </details>
+3. [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
+    <details>
+    <summary>Solution</summary>
+    <br>
+
+    ```js 
+    function rot13(str) {
+        let result = '';
+
+        for(let i = 0; i < str.length; i++) {
+            if(!/[A-Za-z]/.test(str.charAt(i))) result += str.charAt(i);
+            else result += String.fromCharCode(str.charCodeAt(i)%26+65);
+        }
+        
+        return result;
+    }
+    ```
+    </details>
