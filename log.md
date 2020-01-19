@@ -386,3 +386,11 @@ There's not much to say about the problems I solved since they were straightforw
     }
     ```
     </details>
+
+### Day 17: January 18, Saturday
+
+**Today's Progress**: Started the mini-project of recreating Google's front page.
+
+**Thoughts**: I woke up sick today, and I didn't feel like I had the capacity to learn and code React in the same day. However, that doesn't mean that I can't practice what I've already learnt! Therefore, I decided to start this mini-project, which was an idea that I've had for a long time, but never got around to doing. I like this project because it forces me to carefully consider my CSS choices, which is something I could always improve on. This project shouldn't take long, and ideally, I'll finish it tomorrow.
+
+**Link to work**: [Google Look Alike](https://github.com/AlvinoNguyen/Google-Look-Alike)
