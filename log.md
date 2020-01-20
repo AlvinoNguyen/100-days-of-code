@@ -394,3 +394,13 @@ There's not much to say about the problems I solved since they were straightforw
 **Thoughts**: I woke up sick today, and I didn't feel like I had the capacity to learn and code React in the same day. However, that doesn't mean that I can't practice what I've already learnt! Therefore, I decided to start this mini-project, which was an idea that I've had for a long time, but never got around to doing. I like this project because it forces me to carefully consider my CSS choices, which is something I could always improve on. This project shouldn't take long, and ideally, I'll finish it tomorrow.
 
 **Link to work**: [Google Look Alike](https://github.com/AlvinoNguyen/Google-Look-Alike)
+
+### Day 18: January 19, Sunday
+
+**Today's Progress**: Finished the mini-project of recreating Google's front page.
+
+**Thoughts**: This was a fun mini-project to pick up! I even learned some new things about CSS along the way, such as outlines and box-shadows. Surprisingly, Google's front page isn't responsive, so I didn't have any practice in responsive web design. Next time I decide to do a mini-project again, I'll try to incorporate it.
+
+I also got to thinking about where I should go in terms of projects. I believe that I jumped into React a little too quickly, and that the best thing for me to do is to take a step back and learn about fundamental Javascript topics, such as JSON, the DOM, the Fetch API, and ES6 features. I don't think it will take too long, and I also have the perfect project to start learning more about Javascript!
+
+**Link to work**: [Google Look Alike](https://github.com/AlvinoNguyen/Google-Look-Alike)
