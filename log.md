@@ -404,3 +404,11 @@ There's not much to say about the problems I solved since they were straightforw
 I also got to thinking about where I should go in terms of projects. I believe that I jumped into React a little too quickly, and that the best thing for me to do is to take a step back and learn about fundamental Javascript topics, such as JSON, the DOM, the Fetch API, and ES6 features. I don't think it will take too long, and I also have the perfect project to start learning more about Javascript!
 
 **Link to work**: [Google Look Alike](https://github.com/AlvinoNguyen/Google-Look-Alike)
+
+### Day 19: January 20, Monday
+
+**Today's Progress**: Started the recreation of my random quote machine using pure Javscript.
+
+**Thoughts**: I decided to compare pure Javascript and React when it comes to basic DOM manipulation. Since I've only completed one React project, I thought it would be a good idea to take that project and redo it in pure Javascript. It was super easy to recreate, since I had basically coded all the HTML and CSS beforehand in the React project. Manipulating the DOM in pure Javascript was also very straightforward, so I currently have almost all the same functionality as the React project. It shouldn't take long to code in everything else.
+
+**Link to work**: [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
