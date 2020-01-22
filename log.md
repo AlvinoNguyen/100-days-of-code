@@ -412,3 +412,15 @@ I also got to thinking about where I should go in terms of projects. I believe t
 **Thoughts**: I decided to compare pure Javascript and React when it comes to basic DOM manipulation. Since I've only completed one React project, I thought it would be a good idea to take that project and redo it in pure Javascript. It was super easy to recreate, since I had basically coded all the HTML and CSS beforehand in the React project. Manipulating the DOM in pure Javascript was also very straightforward, so I currently have almost all the same functionality as the React project. It shouldn't take long to code in everything else.
 
 **Link to work**: [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
+
+### Day 20: January 21, Tuesday
+
+**Today's Progress**: Finished the recreation of the random quote machine. Started the mini-project of recreating Netflix's front page.
+
+**Thoughts**: The random quote machine didn't take long to finish. All I had to do was set the href attribute of the Twitter button every time I fetched a quote. I want to do at least one more pure Javascript project so that I get a little more practice with the DOM, JSON, and the Fetch API.
+
+Meanwhile, things are getting a little busy at school, but it's nice to come here and code for myself every day! Today, I mostly spent my hour recreating Netflix's front page because I saw how simple Netflix's UI is. It's a little more challenging than Google's front page because I have to take into account responsiveness and layout more carefully.
+
+**Links to work**:
+1. [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
+2. [Netflix Look Alike](https://github.com/AlvinoNguyen/Netflix-Look-Alike)
