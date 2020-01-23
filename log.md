@@ -424,3 +424,11 @@ Meanwhile, things are getting a little busy at school, but it's nice to come her
 **Links to work**:
 1. [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
 2. [Netflix Look Alike](https://github.com/AlvinoNguyen/Netflix-Look-Alike)
+
+### Day 21: January 22, Wednesday
+
+**Today's Progress**: Finished recreating Netflix's front page.
+
+**Thoughts**: There's not much to say about today. I have a lot of work due in the upcoming days, so most of my focus has gone to that. However, I did manage to squeeze an hour of web development practice in throughout the day. This mini-project was interesting because I used a lot of new CSS properties. For example, I learned a little bit about absolute positioning, as well as image responsiveness! Tomorrow, I still start a new Javascript project.
+
+**Link to work**: [Netflix Look Alike](https://github.com/AlvinoNguyen/Netflix-Look-Alike)
