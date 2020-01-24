@@ -60,11 +60,11 @@
 
 ### Day 8: January 8, Wednesday
 
-**Today's Progress**: Finished the product landing page. Solved Problems 1 and 2 on Project Euler using Javascript.
+**Today's Progress**: Finished the product landing page. Solved Problems 1 and 2 on Project Euler using JavaScript.
 
 **Thoughts**: Now that the product landing page is finished, I can reflect on things that I can improve on when it comes to CSS. Most importantly, I need to get into the habit of planning out the layout of my page before rushing into projects. I believe my code will be formatted way better if I have a general idea of what I want my page to look like beforehand. This includes properties such as coloring, size, and responsiveness. Also, I need to get used to using CSS variables more often to make my code more readable and writeable.
 
-Secondly, from now on, I want to incorporate a bit of rigorous problem solving into my 100 Days of Code challenge. My plan is to supplement my normal project coding with coding puzzles from sites such as [Project Euler](https://projecteuler.net/), [Leetcode](https://leetcode.com/), and possibly even [Codeforces](http://codeforces.com/). In addition to Javascript, I want to sharpen my C++ skills for the sake of coding interviews. However, I won't make it a mandatory rule because of how much problem solving I already do in my classes.
+Secondly, from now on, I want to incorporate a bit of rigorous problem solving into my 100 Days of Code challenge. My plan is to supplement my normal project coding with coding puzzles from sites such as [Project Euler](https://projecteuler.net/), [Leetcode](https://leetcode.com/), and possibly even [Codeforces](http://codeforces.com/). In addition to JavaScript, I want to sharpen my C++ skills for the sake of coding interviews. However, I won't make it a mandatory rule because of how much problem solving I already do in my classes.
 
 **Links to work**:
 1. [Product Landing Page](https://github.com/AlvinoNguyen/Product-Landing-Page)
@@ -298,7 +298,7 @@ On the other hand, I'm glad to be coding in C++ again. It's not like I have to r
 
 **Thoughts**: Today was a bit unproductive when it comes to web development, but it's okay, because I'm done with the technical documentation page! Working on this project also helped me learn the basics of AWK a little better, and I'm hoping that I'll be able to apply this knowledge in the future! I'm proud of how I did on this project because how much more elegant my code looks on both the HTML and CSS side.
 
-The next project I'm supposed to work on is my personal portfolio, but I'm going to hold off on working on that for now. I think the best thing for me to do now is to practice my Javascript and hopefully move onto React!
+The next project I'm supposed to work on is my personal portfolio, but I'm going to hold off on working on that for now. I think the best thing for me to do now is to practice my JavaScript and hopefully move onto React!
 
 **Link to work**: [Technical Documentation Page](https://github.com/AlvinoNguyen/Technical-Documentation-Page)
 
@@ -306,7 +306,7 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 
 **Today's Progress**: Set up a [Create React App](https://github.com/facebook/create-react-app) page for the random quote machine as specified by the user stories on freeCodeCamp. Set up the skeleton code for styling for the page.
 
-**Thoughts**: Unfortunately, yesterday was my first missed day of the 100 Days of Code challenge. However, it's time to pick myself back up and continue to build my developer skills. Today, I decided to start up the Front End Libraries Projects, which turned out to be a great idea! The random quote machine is a good starting project for React, because the components are very simple. However, to finish the project, I'm gonna have to learn about stateful components and fetch in Javascript. Hopefully this won't be too big of a learning curve!
+**Thoughts**: Unfortunately, yesterday was my first missed day of the 100 Days of Code challenge. However, it's time to pick myself back up and continue to build my developer skills. Today, I decided to start up the Front End Libraries Projects, which turned out to be a great idea! The random quote machine is a good starting project for React, because the components are very simple. However, to finish the project, I'm gonna have to learn about stateful components and fetch in JavaScript. Hopefully this won't be too big of a learning curve!
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
 
@@ -314,7 +314,7 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 
 **Today's Progress**: Added the skeleton code for props and state for the appropriate componenets in the random quote machine.
 
-**Thoughts**: Today, I spent a long time getting used to writing React componenets, so I did a lot of experimenting. In particular, I learned about the props and state, and I'm currently learning about how to handle events in React. After I learn that, I'll need to learn about Javascript fetch in order to finish this project. This is my favorite project so far, so I don't mind all the learning!
+**Thoughts**: Today, I spent a long time getting used to writing React componenets, so I did a lot of experimenting. In particular, I learned about the props and state, and I'm currently learning about how to handle events in React. After I learn that, I'll need to learn about JavaScript fetch in order to finish this project. This is my favorite project so far, so I don't mind all the learning!
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
 
@@ -330,7 +330,7 @@ The next project I'm supposed to work on is my personal portfolio, but I'm going
 
 **Today's Progress**: Added a feature that fetches random quotes online.
 
-**Thoughts**: It only took a bit of experimenting, but I was able to use Javascript fetch to get random quotes online in JSON format, which is then integrated into my app. I also attempted to link the media buttons to their respective pages so that the quotes are already typed up when they go to the website. The problem I faced was that I couldn't put functions inside of my data/*.js files. There is probably a better way to do what I wanted to do, so I will keep learning and following tutorials. Tomorrow, I should be wrapping up this project.
+**Thoughts**: It only took a bit of experimenting, but I was able to use JavaScript fetch to get random quotes online in JSON format, which is then integrated into my app. I also attempted to link the media buttons to their respective pages so that the quotes are already typed up when they go to the website. The problem I faced was that I couldn't put functions inside of my data/*.js files. There is probably a better way to do what I wanted to do, so I will keep learning and following tutorials. Tomorrow, I should be wrapping up this project.
 
 **Link to work**: [Random Quote Machine](https://github.com/AlvinoNguyen/Random-Quote-Machine)
 
@@ -401,7 +401,7 @@ There's not much to say about the problems I solved since they were straightforw
 
 **Thoughts**: This was a fun mini-project to pick up! I even learned some new things about CSS along the way, such as outlines and box-shadows. Surprisingly, Google's front page isn't responsive, so I didn't have any practice in responsive web design. Next time I decide to do a mini-project again, I'll try to incorporate it.
 
-I also got to thinking about where I should go in terms of projects. I believe that I jumped into React a little too quickly, and that the best thing for me to do is to take a step back and learn about fundamental Javascript topics, such as JSON, the DOM, the Fetch API, and ES6 features. I don't think it will take too long, and I also have the perfect project to start learning more about Javascript!
+I also got to thinking about where I should go in terms of projects. I believe that I jumped into React a little too quickly, and that the best thing for me to do is to take a step back and learn about fundamental JavaScript topics, such as JSON, the DOM, the Fetch API, and ES6 features. I don't think it will take too long, and I also have the perfect project to start learning more about JavaScript!
 
 **Link to work**: [Google Look Alike](https://github.com/AlvinoNguyen/Google-Look-Alike)
 
@@ -409,7 +409,7 @@ I also got to thinking about where I should go in terms of projects. I believe t
 
 **Today's Progress**: Started the recreation of my random quote machine using pure Javscript.
 
-**Thoughts**: I decided to compare pure Javascript and React when it comes to basic DOM manipulation. Since I've only completed one React project, I thought it would be a good idea to take that project and redo it in pure Javascript. It was super easy to recreate, since I had basically coded all the HTML and CSS beforehand in the React project. Manipulating the DOM in pure Javascript was also very straightforward, so I currently have almost all the same functionality as the React project. It shouldn't take long to code in everything else.
+**Thoughts**: I decided to compare pure JavaScript and React when it comes to basic DOM manipulation. Since I've only completed one React project, I thought it would be a good idea to take that project and redo it in pure JavaScript. It was super easy to recreate, since I had basically coded all the HTML and CSS beforehand in the React project. Manipulating the DOM in pure JavaScript was also very straightforward, so I currently have almost all the same functionality as the React project. It shouldn't take long to code in everything else.
 
 **Link to work**: [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
 
@@ -417,7 +417,7 @@ I also got to thinking about where I should go in terms of projects. I believe t
 
 **Today's Progress**: Finished the recreation of the random quote machine. Started the mini-project of recreating Netflix's front page.
 
-**Thoughts**: The random quote machine didn't take long to finish. All I had to do was set the href attribute of the Twitter button every time I fetched a quote. I want to do at least one more pure Javascript project so that I get a little more practice with the DOM, JSON, and the Fetch API.
+**Thoughts**: The random quote machine didn't take long to finish. All I had to do was set the href attribute of the Twitter button every time I fetched a quote. I want to do at least one more pure JavaScript project so that I get a little more practice with the DOM, JSON, and the Fetch API.
 
 Meanwhile, things are getting a little busy at school, but it's nice to come here and code for myself every day! Today, I mostly spent my hour recreating Netflix's front page because I saw how simple Netflix's UI is. It's a little more challenging than Google's front page because I have to take into account responsiveness and layout more carefully.
 
@@ -429,6 +429,18 @@ Meanwhile, things are getting a little busy at school, but it's nice to come her
 
 **Today's Progress**: Finished recreating Netflix's front page.
 
-**Thoughts**: There's not much to say about today. I have a lot of work due in the upcoming days, so most of my focus has gone to that. However, I did manage to squeeze an hour of web development practice in throughout the day. This mini-project was interesting because I used a lot of new CSS properties. For example, I learned a little bit about absolute positioning, as well as image responsiveness! Tomorrow, I still start a new Javascript project.
+**Thoughts**: There's not much to say about today. I have a lot of work due in the upcoming days, so most of my focus has gone to that. However, I did manage to squeeze an hour of web development practice in throughout the day. This mini-project was interesting because I used a lot of new CSS properties. For example, I learned a little bit about absolute positioning, as well as image responsiveness! Tomorrow, I still start a new JavaScript project.
 
 **Link to work**: [Netflix Look Alike](https://github.com/AlvinoNguyen/Netflix-Look-Alike)
+
+### Day 22: January 23, Thursday
+
+**Today's Progress**: Added CSS transitions to the JavaScript random quote machine. Wrote the skeleton code for the freeCodeCamp local weather project.
+
+**Thoughts**: Today I was watching an HTML, CSS, and JavaScript tutorial for a Rock, Paper, Scissors project when I stumbled upon CSS transitions. Transitions are simple way to add animations to CSS elements, and I've essentially fallen in love with them. I decided to try them out in my random quote machine, and it made the UX feel way more smooth. It isn't perfect though. From what I gathered, there's no easy way to adjust responsive width and height with transitions, so the height of my quote box still has a choppy transition.
+
+Another thing I stumbled upon today was freeCodeCamp's take home projects. It's a great list of 20 ideas for web development projects, and I decided to ditch my To Do List project idea for this one: An app that checks the local weather. I'm doing this project a little bit differently, because I'm doing the DOM manipulation stuff with HTML and JavaScript before doing the styling with CSS. Now that I'm creating dynamic web projects, I think a better workflow for solo projects is to create a fully functioning app before adding the styling. That way, the functionality of the program isn't dictated by the styling.
+
+**Links to work**:
+1. [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
+2. [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
