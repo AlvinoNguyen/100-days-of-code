@@ -444,3 +444,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Links to work**:
 1. [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
 2. [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 23: January 24, Friday
+
+**Today's Progress**: Refactored JavaScript in the local weather project. Added HTML geolocation functionality.
+
+**Thoughts**: I think this is all the JavaScript I'll need to do for this project. I used a lot of new concepts and techniques today, such as DOM caching, Date objecets, asynchronous JavaScript, callback functions, and HTML geolocations. It turns out there's a lot about JavaScript that I still don't know! However, as long as I look into asynchronous JavaScript, I think I should be fine to move back to React. Tomorrow, we're styling this bad boy!
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
