@@ -452,3 +452,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: I think this is all the JavaScript I'll need to do for this project. I used a lot of new concepts and techniques today, such as DOM caching, Date objecets, asynchronous JavaScript, callback functions, and HTML geolocations. It turns out there's a lot about JavaScript that I still don't know! However, as long as I look into asynchronous JavaScript, I think I should be fine to move back to React. Tomorrow, we're styling this bad boy!
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 24: January 25, Saturday
+
+**Today's Progress**: Added styling to the introduction of the local weather project.
+
+**Thoughts**: I didn't get as much styling as I wanted to today. It's okay; there are always gonna be slow days like this. However, I am applying new CSS concepts. Mainly, I'm trying to avoid using ID selectors to avoid having my styling too connected to the semantics. Also, text ad box shadows are kinda cool!
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
