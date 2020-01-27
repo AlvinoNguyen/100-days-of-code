@@ -460,3 +460,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: I didn't get as much styling as I wanted to today. It's okay; there are always gonna be slow days like this. However, I am applying new CSS concepts. Mainly, I'm trying to avoid using ID selectors to avoid having my styling too connected to the semantics. Also, text ad box shadows are kinda cool!
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 25: January 26, Sunday
+
+**Today's Progress**: Added additional information section to the local weather project, including styles and functionality.
+
+**Thoughts**: Today was pretty interesting, because I coded in HTML, CSS, and JavaScript simultaneously. The code in HTML and JavaScript was straightforward stuff, but the CSS was interesting because I used CSS Grid for the first time. Grid is a different lay to page layouts, and I think it would be helpful to practice it more. When I'm doing with this project, hopefully my next project will lend itself naturally to a Grid layout instead of a Flexbox one.
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
