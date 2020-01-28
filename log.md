@@ -468,3 +468,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: Today was pretty interesting, because I coded in HTML, CSS, and JavaScript simultaneously. The code in HTML and JavaScript was straightforward stuff, but the CSS was interesting because I used CSS Grid for the first time. Grid is a different lay to page layouts, and I think it would be helpful to practice it more. When I'm doing with this project, hopefully my next project will lend itself naturally to a Grid layout instead of a Flexbox one.
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 26: January 27, Monday
+
+**Today's Progress**: Added sunrise and sunset times to the additional info section of the local weather project. Added styles themes that change depending on the time of day.
+
+**Thoughts**: This was another slow day, but it was a good JavaScript-learning hour. Working on Date objects and asynchronous Javascript is a bit confusing, but I think I'm getting the hang of it. I also decided add the day/night styles, which turned out to look really good! It's gonna take a while to get styles for each type of weather though.
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
