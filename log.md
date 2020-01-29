@@ -476,3 +476,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: This was another slow day, but it was a good JavaScript-learning hour. Working on Date objects and asynchronous Javascript is a bit confusing, but I think I'm getting the hang of it. I also decided add the day/night styles, which turned out to look really good! It's gonna take a while to get styles for each type of weather though.
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 27: January 28, Tuesday
+
+**Today's Progress**: Added fahrenheit and celcius toggle buttons.
+
+**Thoughts**: All the implementations I've done in the past few days feel very repetitive, which I think is a good thing, because it means I'm ready to move back to React. However, I do want to finish up this project to the best of my ability, and I'm one step closer to doing that with the addition of fahrenheit and celcius buttons. Although a small feature, it helped me practice CSS transitions and encouraged me to refactor my Javascript! Tomorrow, I'll try to put the final touches to this project, but there's no guarantee, because I have an insanely busy day!
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
