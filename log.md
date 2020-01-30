@@ -484,3 +484,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: All the implementations I've done in the past few days feel very repetitive, which I think is a good thing, because it means I'm ready to move back to React. However, I do want to finish up this project to the best of my ability, and I'm one step closer to doing that with the addition of fahrenheit and celcius buttons. Although a small feature, it helped me practice CSS transitions and encouraged me to refactor my Javascript! Tomorrow, I'll try to put the final touches to this project, but there's no guarantee, because I have an insanely busy day!
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 28: January 29, Wednesday
+
+**Today's Progress**: Added a basic Express backend to the pure JS random quote machine.
+
+**Thoughts**: I'm surprised that I haven't done any backend coding this year until today. I think that adding backend code to my projects so that they can be run on the local host is a good idea because it will help me get familiar with Node and Express. Also, it opens up the opportunity for me to learn about databases. Unfortunately, this was all I had time to do today, but it was an hour of coding!
+
+**Link to work**: [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
