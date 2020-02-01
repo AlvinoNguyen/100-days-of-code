@@ -492,3 +492,13 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 **Thoughts**: I'm surprised that I haven't done any backend coding this year until today. I think that adding backend code to my projects so that they can be run on the local host is a good idea because it will help me get familiar with Node and Express. Also, it opens up the opportunity for me to learn about databases. Unfortunately, this was all I had time to do today, but it was an hour of coding!
 
 **Link to work**: [Random Quote Machine 2](https://github.com/AlvinoNguyen/Random-Quote-Machine-2)
+
+### Day 29: January 31, Friday
+
+**Today's Progress**: Implemented a fix for the 'Shuzenji' bug in the local weather app. Also added 'loading' values to temperature elements and an interval to update the weather.
+
+**Thoughts**: Wow, it's been a hectic couple of days! Unfortunately, I didn't have the time to code last night as I was cramming for a midterm. I guess I should take this as an indication to try to improve my time management skills!
+
+Anyway, I finished up my local weather app! This project took a lot longer than I expected, but I also used a lot more JavaScript concepts than I expected too. Some of the notable concepts from this project were DOM manipulation, Date objects, higher-order functions, fetch, promises, and event listeners. That's a lot of concepts, and I think this means I'm finally ready to move on to coding up React projects!
+
+**Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
