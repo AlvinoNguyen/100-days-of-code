@@ -502,3 +502,11 @@ Another thing I stumbled upon today was freeCodeCamp's take home projects. It's 
 Anyway, I finished up my local weather app! This project took a lot longer than I expected, but I also used a lot more JavaScript concepts than I expected too. Some of the notable concepts from this project were DOM manipulation, Date objects, higher-order functions, fetch, promises, and event listeners. That's a lot of concepts, and I think this means I'm finally ready to move on to coding up React projects!
 
 **Link to work**: [Local Weather](https://github.com/AlvinoNguyen/Local-Weather)
+
+### Day 30: February 1, Saturday
+
+**Today's Progress**: Started the timestamp microservice project following the user stories specified by freeCodeCamp. Added skeleton code and implemented backend.
+
+**Thoughts**: I don't know what it is about backend recently, but I've really wanted to start a backend-focused project. It turns out that the first backend (full stack) project on freeCodeCamp was really easy to implement, so I finished the backend in an hour. If all goes well, I'll be done with this quick project tomorrow, and I can move on to more complex backend projects.
+
+**Link to work**: [Timestamp Microservice](https://github.com/AlvinoNguyen/Timestamp-Microservice)
