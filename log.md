@@ -510,3 +510,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I don't know what it is about backend recently, but I've really wanted to start a backend-focused project. It turns out that the first backend (full stack) project on freeCodeCamp was really easy to implement, so I finished the backend in an hour. If all goes well, I'll be done with this quick project tomorrow, and I can move on to more complex backend projects.
 
 **Link to work**: [Timestamp Microservice](https://github.com/AlvinoNguyen/Timestamp-Microservice)
+
+### Day 31: February 2, Sunday
+
+**Today's Progress**: Added HTML content and CSS styles to the timestamp microservice project. Fixed a bug in the backend code.
+
+**Thoughts**: I feel like I'm hitting a plateau when it comes to learning new things for HTML and CSS. I'll learn a few new things with every project I do, but my end product looks about the same. I should try to find a resource to help me improve my CSS skills, but I think it's more important for me to develop my all-around web development skills. That being said, I finished the timestamp microservice, and I'll be starting a new project tomorrow!
+
+**Link to work**: [Timestamp Microservice](https://github.com/AlvinoNguyen/Timestamp-Microservice)
