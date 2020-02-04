@@ -518,3 +518,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I feel like I'm hitting a plateau when it comes to learning new things for HTML and CSS. I'll learn a few new things with every project I do, but my end product looks about the same. I should try to find a resource to help me improve my CSS skills, but I think it's more important for me to develop my all-around web development skills. That being said, I finished the timestamp microservice, and I'll be starting a new project tomorrow!
 
 **Link to work**: [Timestamp Microservice](https://github.com/AlvinoNguyen/Timestamp-Microservice)
+
+### Day 32: February 3, Monday
+
+**Today's Progress**: Created a request header parser microservice following the user story specified by freeCodeCamp.
+
+**Thoughts**: This will probably be the quickest I ever finish a project during these 100 days. This project is basically a copy of the last project (all the way down to recycled HTML structure and CSS styles!), except instead of giving back a timestamp, I gave back information about the client's device. To be honest, this project was a lot simpler than the last one, except I did a little bit NPM and Express spelunking to figure out the right functions to call.
+
+**Link to work**: [Request Header Parser Microservice](https://github.com/AlvinoNguyen/Request-Header-Parser-Microservice)
