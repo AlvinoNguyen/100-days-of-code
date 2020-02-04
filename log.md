@@ -526,3 +526,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: This will probably be the quickest I ever finish a project during these 100 days. This project is basically a copy of the last project (all the way down to recycled HTML structure and CSS styles!), except instead of giving back a timestamp, I gave back information about the client's device. To be honest, this project was a lot simpler than the last one, except I did a little bit NPM and Express spelunking to figure out the right functions to call.
 
 **Link to work**: [Request Header Parser Microservice](https://github.com/AlvinoNguyen/Request-Header-Parser-Microservice)
+
+### Day 33: February 4, Tuesday
+
+**Today's Progress**: Started the Java Battleship project.
+
+**Thoughts**: Today, I decided to take a trip down memory lane and do a little bit of coding in Java. It was the first programming language I ever learned, so it feels pretty cool to be coding in it again. I decided to create a text-based Battleship game which can be played inside the terminal. So far, I have a lot of the boilerplate code down, and I should be getting to the hard stuff tomorrow!
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
