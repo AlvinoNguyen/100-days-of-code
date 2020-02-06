@@ -534,3 +534,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Today, I decided to take a trip down memory lane and do a little bit of coding in Java. It was the first programming language I ever learned, so it feels pretty cool to be coding in it again. I decided to create a text-based Battleship game which can be played inside the terminal. So far, I have a lot of the boilerplate code down, and I should be getting to the hard stuff tomorrow!
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 34: February 5, Wednesday
+
+**Today's Progress**: Edited the Grid class for the Java Battleship game. Implemented a prototype of the Player class.
+
+**Thoughts**: To be honest, today's hour of code felt more like busy work instead of learning new things. However, if I continue working on this game, the next thing I'll need to implement is the Battleship class, which will be a lot more interesting (and a lot more difficult!). I'm excited!
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
