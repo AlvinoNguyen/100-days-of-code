@@ -542,3 +542,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: To be honest, today's hour of code felt more like busy work instead of learning new things. However, if I continue working on this game, the next thing I'll need to implement is the Battleship class, which will be a lot more interesting (and a lot more difficult!). I'm excited!
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 35: February 6, Thursday
+
+**Today's Progress**: Started and added skeleton code for the Battleship class.
+
+**Thoughts**: There's a lot more nuances when it comes to making a text-based game, and it's especially bad whenever you're trying to get input from the user. Every time I ask for the user to give input, I need to check if the input is valid. This isn't difficult, but it's extremely tedious, and this will seriously slow down my progress. Maybe it would be a good idea to start another project while continuing to work on this one...
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
