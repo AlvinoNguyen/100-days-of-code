@@ -558,3 +558,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I've been super busy lately, which is a shame, because that means I can only code on my own for an hour a day. I'm not sure how much progress I'm making with this game, but I can confidently say that I'll be done by the end of next week. This is taking a while for something that was supposed to me a mini-project!
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 37: February 8, Saturday
+
+**Today's Progress**: Moved all I/O formatting methods into the Print class. Added computer random ship setting and guessing functionality.
+
+**Thoughts**: The Battleship class is getting so big that I've been trying to move some methods to a different class. However, the Battleship class is still pretty big. I don't think it'll get much bigger than this though, because I'm pretty close to finishing. All I have to do after today is to alternate between the player's and computer's guesses, and then determine a winner at the end of the game.
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
