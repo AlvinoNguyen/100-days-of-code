@@ -566,3 +566,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: The Battleship class is getting so big that I've been trying to move some methods to a different class. However, the Battleship class is still pretty big. I don't think it'll get much bigger than this though, because I'm pretty close to finishing. All I have to do after today is to alternate between the player's and computer's guesses, and then determine a winner at the end of the game.
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 38: February 9, Sunday
+
+**Today's Progress**: Modularized user input functions in the Battleship class. Added player guessing and score functionality.
+
+**Thoughts**: I've gotten about 95% of the functionalty for the Battleship game down. After that, I'll feel okay moving to a new project. However, there's probably a few bugs that I haven't caught in this program, so I should spend some time looking for those.
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
