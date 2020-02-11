@@ -574,3 +574,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I've gotten about 95% of the functionalty for the Battleship game down. After that, I'll feel okay moving to a new project. However, there's probably a few bugs that I haven't caught in this program, so I should spend some time looking for those.
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 39: February 10, Monday
+
+**Today's Progress**: Added simple check to determine winner of the game. Added functionality to check when a ship has been sunk.
+
+**Thoughts**: It's time to say farewell to this Java Battleship game! I thought this project would take at most a day, but this ended up being a week-long project, which might be the longest I've ever spend on one ever since I started the 100 days. It took longer than expected, but at least I never gave up on this project! Maybe one day, I come back to Java to code up another minigame, but for now, I need to focus on web development again!
+
+**Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
