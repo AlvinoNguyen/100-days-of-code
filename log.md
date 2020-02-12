@@ -582,3 +582,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: It's time to say farewell to this Java Battleship game! I thought this project would take at most a day, but this ended up being a week-long project, which might be the longest I've ever spend on one ever since I started the 100 days. It took longer than expected, but at least I never gave up on this project! Maybe one day, I come back to Java to code up another minigame, but for now, I need to focus on web development again!
 
 **Link to work**: [Java Battleship](https://github.com/AlvinoNguyen/Java-Battleship)
+
+### Day 40: February 11, Tuesday
+
+**Today's Progress**: Added skeleton code to the freeCodeCamp URL Shortener Microservice Project.
+
+**Thoughts**: It feels good to be back coding in HTML/CSS/JS again! I'm a bit rusty on some of the content since I essentially haven't done any web development in about a week, but it doesn't feel like I forgot anything super important, so that's good! Also, if I'm gonna fully finish this project, I'm gonna have to implement a database, meaning I'll have to learn MongoDB. That'll be quite the challenge, because I've never touched it before!
+
+**Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
