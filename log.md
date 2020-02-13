@@ -590,3 +590,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: It feels good to be back coding in HTML/CSS/JS again! I'm a bit rusty on some of the content since I essentially haven't done any web development in about a week, but it doesn't feel like I forgot anything super important, so that's good! Also, if I'm gonna fully finish this project, I'm gonna have to implement a database, meaning I'll have to learn MongoDB. That'll be quite the challenge, because I've never touched it before!
 
 **Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
+
+### Day 41: February 12, Wednesday
+
+**Today's Progress**: Added skeleton functionality and styles to the form of the URL Shortener Microservice Project.
+
+**Thoughts**: Not a lot happened today, but it's kind of a historic moment. Today, I created my first post function in the 100 days! It took quite a lot of learning and experimenting to get everything working, but everything seems to be working now. I still have a bit of backend work and styling to do before I can call this a finished project!
+
+**Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
