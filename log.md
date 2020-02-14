@@ -598,3 +598,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Not a lot happened today, but it's kind of a historic moment. Today, I created my first post function in the 100 days! It took quite a lot of learning and experimenting to get everything working, but everything seems to be working now. I still have a bit of backend work and styling to do before I can call this a finished project!
 
 **Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
+
+### Day 42: February 12, Thursday
+
+**Today's Progress**: Added code to save URLs and revisit them later using the shortened URL.
+
+**Thoughts**: Again, today was a lot of experimentation, especially with the Express redirect function. At one point, I accidently created a permanent redirect (since I didn't know what the 301 status code was), and had to clear my data to get rid of it. However, the basic functionality of the form is almost complete! All I have to do now is tinker with the dns.lookup function to allow `http://` and `https://` prefixes.
+
+**Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
