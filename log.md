@@ -599,10 +599,18 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 
 **Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
 
-### Day 42: February 12, Thursday
+### Day 42: February 13, Thursday
 
 **Today's Progress**: Added code to save URLs and revisit them later using the shortened URL.
 
 **Thoughts**: Again, today was a lot of experimentation, especially with the Express redirect function. At one point, I accidently created a permanent redirect (since I didn't know what the 301 status code was), and had to clear my data to get rid of it. However, the basic functionality of the form is almost complete! All I have to do now is tinker with the dns.lookup function to allow `http://` and `https://` prefixes.
+
+**Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
+
+### Day 43: February 15, Saturday
+
+**Today's Progress**: Implemented URL validator to the server's POST request.
+
+**Thoughts**: This implementation took a lot longer than expected (which is why I didn't log yesterday)! Initially, I attempeted to validate URLs by using using regular expressions, but there were so many edge cases that I had to deal with that I knew there must have been an easier way to do things. It turns out the WHATWG API can be used to parse URL easily. From there, the implementation wasn't too bad. Now, I think I'm done with the backend logic of this project. Tomorrow, I'll work on the CSS. It's been a while since I've done some serious CSS, so I'm a bit rusty!
 
 **Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
