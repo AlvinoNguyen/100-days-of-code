@@ -614,3 +614,13 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: This implementation took a lot longer than expected (which is why I didn't log yesterday)! Initially, I attempeted to validate URLs by using using regular expressions, but there were so many edge cases that I had to deal with that I knew there must have been an easier way to do things. It turns out the WHATWG API can be used to parse URL easily. From there, the implementation wasn't too bad. Now, I think I'm done with the backend logic of this project. Tomorrow, I'll work on the CSS. It's been a while since I've done some serious CSS, so I'm a bit rusty!
 
 **Link to work**: [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
+
+### Day 44: February 16, Sunday
+
+**Today's Progress**: Refactored styles for the URL Shortener Microservice. Finished the HTML and CSS for the freeCodeCamp File Metadata Microservice Project.
+
+**Thoughts**: The CSS didn't take that long to finish for the URL Shortener Microservice. There wasn't much else to do for that project, so I moved on to the next freeCodeCamp backend project. Well, actually I skipped the Exercise Tracker project because it seemed like I'd have to learn MongoDB for me to finish completely. This project shouldn't take that long to do since I've finished all the HTML, CSS, and a lot of the backend today. All I have to do is implement the function for the POST request.
+
+**Links to work**: 
+1. [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
+2. [File Metadata Microservice](https://github.com/AlvinoNguyen/File-Metadata-Microservice)
