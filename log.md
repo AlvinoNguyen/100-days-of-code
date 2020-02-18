@@ -624,3 +624,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Links to work**: 
 1. [URL Shortener Microservice](https://github.com/AlvinoNguyen/URL-Shortener-Microservice)
 2. [File Metadata Microservice](https://github.com/AlvinoNguyen/File-Metadata-Microservice)
+
+### Day 45: February 17, Monday
+
+**Today's Progress**: Explored NPM package possibilities for uploading files. Installed Multer package and implemented Multer disk storage to backend code.
+
+**Thoughts**: There was a lot more exploring than coding today, meaning I'm getting to parts of web development that I haven't learned yet. Unfortunately, this means that from now on, progress will happen much slower than it used to. In this case, it looks like I'll have to learn MongoDB to progress further afterall. On the bright side, this means I'll be learning a lot over the next new months!
+
+**Link to work**: [File Metadata Microservice](https://github.com/AlvinoNguyen/File-Metadata-Microservice)
