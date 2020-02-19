@@ -632,3 +632,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: There was a lot more exploring than coding today, meaning I'm getting to parts of web development that I haven't learned yet. Unfortunately, this means that from now on, progress will happen much slower than it used to. In this case, it looks like I'll have to learn MongoDB to progress further afterall. On the bright side, this means I'll be learning a lot over the next new months!
 
 **Link to work**: [File Metadata Microservice](https://github.com/AlvinoNguyen/File-Metadata-Microservice)
+
+### Day 46: February 18, Tuesday
+
+**Today's Progress**: Started the freeCodeCamp Wikipedia Viewer project.
+
+**Thoughts**: My return to React wasn't as grand as I expected it to be. I was able to build the skeleton code for the Wikipedia Viewer, but I'm already at a loss for how to continue with the project. I forgot a lot about how React works, and the next few days will be about trying to catch up to where I was when I originally created the Random Quote Machine in React. I don't have much time though, since I'm participating in my first hackathon on Sunday!
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
