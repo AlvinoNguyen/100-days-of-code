@@ -640,3 +640,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: My return to React wasn't as grand as I expected it to be. I was able to build the skeleton code for the Wikipedia Viewer, but I'm already at a loss for how to continue with the project. I forgot a lot about how React works, and the next few days will be about trying to catch up to where I was when I originally created the Random Quote Machine in React. I don't have much time though, since I'm participating in my first hackathon on Sunday!
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 47: February 19, Wednesday
+
+**Today's Progress**: Implemented the toggling functionality for the Toggle component for the Wikipedia Viewer project.
+
+**Thoughts**: I got a lot more done than expected! I thought it would take a while to relearn about props, state, and events, but I was able to get done as much as I expected. However, I'm not at the hard part yet. From here, I need a way to pass information up to the App component, and then build new components for the search list.
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
