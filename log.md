@@ -648,3 +648,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I got a lot more done than expected! I thought it would take a while to relearn about props, state, and events, but I was able to get done as much as I expected. However, I'm not at the hard part yet. From here, I need a way to pass information up to the App component, and then build new components for the search list.
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 48: February 21, Friday
+
+**Today's Progress**: Added functionality to pass input from Toggle to App componenet.
+
+**Thoughts**: I feel like I could have gotten a lot more done today, but I went through a few different strategies to pass input from the Toggle component to the App component. In the end, I passed an App function that takes input as a parameter as a property of the Toggle component. From here, I have to figure out how to use the Wikipedia Search API, as well as implement the Result (and possibly ResultList) component(s).
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
