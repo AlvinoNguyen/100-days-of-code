@@ -656,3 +656,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I feel like I could have gotten a lot more done today, but I went through a few different strategies to pass input from the Toggle component to the App component. In the end, I passed an App function that takes input as a parameter as a property of the Toggle component. From here, I have to figure out how to use the Wikipedia Search API, as well as implement the Result (and possibly ResultList) component(s).
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 49: February 22, Saturday
+
+**Today's Progress**: Added search results functionality to the Wikipedia Viewer project using the Wikipedia Search API.
+
+**Thoughts**: Using fetch with an API is always fun. Today, I spent some time relearning all about component lists. In the end, I used them in the search functionality. Now, searching anything up on this site lets me view the "top" 10 Wikipedia articles given your input. About all the logic is done for this project, so all I have to do now is style it with CSS. I'm glad I chose to work on this project in React. This time, it feels like a framework is better suited for the job than pure JavaScript!
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
