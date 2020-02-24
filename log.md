@@ -664,3 +664,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Using fetch with an API is always fun. Today, I spent some time relearning all about component lists. In the end, I used them in the search functionality. Now, searching anything up on this site lets me view the "top" 10 Wikipedia articles given your input. About all the logic is done for this project, so all I have to do now is style it with CSS. I'm glad I chose to work on this project in React. This time, it feels like a framework is better suited for the job than pure JavaScript!
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 50: February 23, Sunday
+
+**Today's Progress**: Participated in UCLA's Hack On The Hill 7. Created a Markdown Previewer.
+
+**Thoughts**: Today was my first hackathon, and it was a lot of fun! I came up with the idea (inspired by freeCodeCamp's Markdown Previewer project) of creating an app that transformed Markdown into a semantic PDF file, and over 12 hours, we ended up creating an entire IDE specifically for Markdown. We built our app with React, but unfortunately I didn't get to work on much React. Instead, I helped design the style and layout of the app using pure CSS. After I finish my Wikipedia Viewer, I'm gonna work on my own version of the Markdown Previewer to help me get better at React.
+
+**Link to work**: [Major Markdown](https://github.com/Firius0408/Hack)
