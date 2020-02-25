@@ -672,3 +672,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Today was my first hackathon, and it was a lot of fun! I came up with the idea (inspired by freeCodeCamp's Markdown Previewer project) of creating an app that transformed Markdown into a semantic PDF file, and over 12 hours, we ended up creating an entire IDE specifically for Markdown. We built our app with React, but unfortunately I didn't get to work on much React. Instead, I helped design the style and layout of the app using pure CSS. After I finish my Wikipedia Viewer, I'm gonna work on my own version of the Markdown Previewer to help me get better at React.
 
 **Link to work**: [Major Markdown](https://github.com/Firius0408/Hack)
+
+### Day 51: February 24, Monday
+
+**Today's Progress**: Started CSS styling for the Wikipedia Viewer project.
+
+**Thoughts**: I ended up using a lot of new CSS properties today! First off, I'm trying out CSS transitions again, which I still find super awesome. It makes my web pages look a lot more modern. I'm also using pseudo-classes for my anchor tags to keep my styles consistent. I even used a pseudo-element just to make hovering over search results look better! In my next projects, I wanna use pseudo-elements a lot more so that I can unlock their full potential. Lastly, I used filters in order to color my images. All in all, today was a good CSS styling session!
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
