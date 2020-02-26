@@ -680,3 +680,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I ended up using a lot of new CSS properties today! First off, I'm trying out CSS transitions again, which I still find super awesome. It makes my web pages look a lot more modern. I'm also using pseudo-classes for my anchor tags to keep my styles consistent. I even used a pseudo-element just to make hovering over search results look better! In my next projects, I wanna use pseudo-elements a lot more so that I can unlock their full potential. Lastly, I used filters in order to color my images. All in all, today was a good CSS styling session!
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 52: February 25, Tuesday
+
+**Today's Progress**: Finished the CSS styling for the Wikipedia Viewer project.
+
+**Thoughts**: Today was pretty straightforward. I changed the toggle input and button so that its style matched the theme of the app. Unfortunately, I have no idea how to add an opening and closing animation of the toggle button. There is proably a way to do create it using CSS animations, but currently I don't know how they work. Maybe it's something I should look into. A few other things that I added to the CSS were transitions to the result class pseudo-element, as well as a media query so that the app looks better on a desktop. This project is essentially done, so now its time to move on to my own version of the Markdown Previewer!
+
+**Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
