@@ -688,3 +688,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Today was pretty straightforward. I changed the toggle input and button so that its style matched the theme of the app. Unfortunately, I have no idea how to add an opening and closing animation of the toggle button. There is proably a way to do create it using CSS animations, but currently I don't know how they work. Maybe it's something I should look into. A few other things that I added to the CSS were transitions to the result class pseudo-element, as well as a media query so that the app looks better on a desktop. This project is essentially done, so now its time to move on to my own version of the Markdown Previewer!
 
 **Link to work**: [Wikipedia Viewer](https://github.com/AlvinoNguyen/Wikipedia-Viewer)
+
+### Day 53: February 27, Thursday
+
+**Today's Progress**: Started the pure HTML/CSS/JS calculator project specified by the user stories on freeCodeCamp.
+
+**Thoughts**: For some reason, Create React App wasn't rendering my page today, even after I spent a while trying to figure out what I was doing wrong. Then I decided to delay React projects until I figure it out. In the meantime, I started this cool project. I can already tell that this project is better meant for React than pure JavaScript, since the code is already pretty tedious. There was a lot of pasting in the HTML, and a lot of rewriting code for the CSS. To be fair though, the CSS isn't necessary, but it makes the calculator look much nicer.
+
+**Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
