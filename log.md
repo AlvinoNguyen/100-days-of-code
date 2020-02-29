@@ -696,3 +696,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: For some reason, Create React App wasn't rendering my page today, even after I spent a while trying to figure out what I was doing wrong. Then I decided to delay React projects until I figure it out. In the meantime, I started this cool project. I can already tell that this project is better meant for React than pure JavaScript, since the code is already pretty tedious. There was a lot of pasting in the HTML, and a lot of rewriting code for the CSS. To be fair though, the CSS isn't necessary, but it makes the calculator look much nicer.
 
 **Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
+
+### Day 54: February 28, Friday
+
+**Today's Progress**: Added basic styling and scripting to the JavaScript calculator.
+
+**Thoughts**: The styling was a lot more simpler than I expected. Most of the work was done with CSS Grid positioning, and the rest of the styling was a few basic color and font commands. On the other hand, the scripting looks like it will be a little more complex. The part I'm most concerned about is the evaluting the infix expression. If there isn't a JavaScript built-in function to do this for me, then I'll have to implement it on my own. I've already seen the algorithm, but its implementation is a bit technical.
+
+**Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
