@@ -704,3 +704,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: The styling was a lot more simpler than I expected. Most of the work was done with CSS Grid positioning, and the rest of the styling was a few basic color and font commands. On the other hand, the scripting looks like it will be a little more complex. The part I'm most concerned about is the evaluting the infix expression. If there isn't a JavaScript built-in function to do this for me, then I'll have to implement it on my own. I've already seen the algorithm, but its implementation is a bit technical.
 
 **Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
+
+### Day 55: February 29, Saturday
+
+**Today's Progress**: Implemented integer arithmetic functionality to the Javascript Calculator.
+
+**Thoughts**: As I expected, I didn't have to implement the arithmetic evaluation function, since there exists the eval function! It made implemeting the 'equals' button a lot easier to code up. However, I still used a stack in order to save operators and operands in a convenient way. Tomorrow, I'll wrap up this project by implementing floating-point arithmetic. After that, maybe I'll recreate this project using React as an exercise. Despite its simplicity, this might be one of my favorite projects!
+
+**Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
