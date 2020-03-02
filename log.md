@@ -712,3 +712,13 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: As I expected, I didn't have to implement the arithmetic evaluation function, since there exists the eval function! It made implemeting the 'equals' button a lot easier to code up. However, I still used a stack in order to save operators and operands in a convenient way. Tomorrow, I'll wrap up this project by implementing floating-point arithmetic. After that, maybe I'll recreate this project using React as an exercise. Despite its simplicity, this might be one of my favorite projects!
 
 **Link to work**: [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
+
+### Day 56: March 1, Sunday
+
+**Today's Progress**: Implemented floating-point arithmetic functionality to the Javascript Calculator. Initialized the React JavaScript Calculator using Create React App.
+
+**Thoughts**: There wasn't much more work I had to do to finish the first JavaScript Calculator, so today I ended up finishing that project in about half an hour. I spent the rest of the hour initializing another repository (the second JavaScript Calculator) using Create React App. For some reason, things are working now, so I must have deleted something I wasn't supposed to a few days ago. Oh well, at least now I can do more React work!
+
+**Links to work**:
+1. [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
+2. [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
