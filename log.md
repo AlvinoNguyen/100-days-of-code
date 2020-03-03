@@ -722,3 +722,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Links to work**:
 1. [JavaScript Calculator](https://github.com/AlvinoNguyen/JavaScript-Calculator)
 2. [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 57: March 2, Monday
+
+**Today's Progress**: Added skeleton components to the React JavaScript Calculator.
+
+**Thoughts**: I spent my hour adding the boilerplate code for each component of the React JavaScript Calculator. It was time-consuming and not necessarily difficult, so nothing interesting really happened today. However, something new I'm trying is splitting up my CSS into multiple files. Each component will have its own CSS file, and the App component collects all those styles together to render them to the page. I think this would be good practice for bigger projects, but for something like a calculator, it will be a bit more work than a single file with all the styles.
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
