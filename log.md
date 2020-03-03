@@ -730,3 +730,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: I spent my hour adding the boilerplate code for each component of the React JavaScript Calculator. It was time-consuming and not necessarily difficult, so nothing interesting really happened today. However, something new I'm trying is splitting up my CSS into multiple files. Each component will have its own CSS file, and the App component collects all those styles together to render them to the page. I think this would be good practice for bigger projects, but for something like a calculator, it will be a bit more work than a single file with all the styles.
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 58: March 3, Tuesday
+
+**Today's Progress**: Added basic styling to app and button components of the React JavaScript Calculator.
+
+**Thoughts**: Instead of reusing all the styles from my previous JavaScript calculator, I decided to further practice my CSS skills be copying the styles of the iPhone Calculator app. I still get to reuse some of the same styles from my previous project, but soon I'm gonna reach a point where I'll have to modify some of my components to fit the CSS better. Hopefully this isn't too hard of a task. The point of redoing this project is to gain a better understanding of React, not to keep practicing CSS!
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
