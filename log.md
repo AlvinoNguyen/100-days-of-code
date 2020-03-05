@@ -738,3 +738,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Instead of reusing all the styles from my previous JavaScript calculator, I decided to further practice my CSS skills be copying the styles of the iPhone Calculator app. I still get to reuse some of the same styles from my previous project, but soon I'm gonna reach a point where I'll have to modify some of my components to fit the CSS better. Hopefully this isn't too hard of a task. The point of redoing this project is to gain a better understanding of React, not to keep practicing CSS!
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 59: March 4, Wednesday
+
+**Today's Progress**: Finished adding layout styles to the React JavaScript Calculator
+
+**Thoughts**: Finishing the layout for all the components for this project was a bit more difficult than I expected, so I didn't get to any of the React logic today. In order to match the style of the iPhone calculator app, I had to wrap all the conponents inside another container inside the app container so I could adjust the height of the grid. Next, to keep myself from messing up the natural margins of the grid, I created a pseudo element in place of a border, which was also a bit tricky. I also had to slightly change the Operator component so that I could give the components valid ids that CSS would recognize. Other than that, everything went pretty smoothly! Tomorrow, I can start the React logic of this calculator.
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
