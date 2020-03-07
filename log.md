@@ -746,3 +746,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Finishing the layout for all the components for this project was a bit more difficult than I expected, so I didn't get to any of the React logic today. In order to match the style of the iPhone calculator app, I had to wrap all the conponents inside another container inside the app container so I could adjust the height of the grid. Next, to keep myself from messing up the natural margins of the grid, I created a pseudo element in place of a border, which was also a bit tricky. I also had to slightly change the Operator component so that I could give the components valid ids that CSS would recognize. Other than that, everything went pretty smoothly! Tomorrow, I can start the React logic of this calculator.
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 60: March 6, Friday
+
+**Today's Progress**: Started React logic for the Number component in the React JavaScript Calculator
+
+**Thoughts**: The logic for this project is a lot more involved than I expected! Today, I was hoping to get through being able to update the current value after each click to a number button, but it's taking longer than I expected. This is partially because I'm trying to limit the numbers on the display to a maximum of 9 digits, as well as trying to pretty format the value. This means adding commas where necessary. Most of the functions I've coded so far are in the App component, but I should look into trying to move these functions into the Number component if appropriate.
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
