@@ -757,8 +757,16 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 
 ### Day 61: March 7, Saturday
 
-**Today's Progress**: Finished logic for the Number and Decimal components in the React Javascript Calculator
+**Today's Progress**: Finished logic for the Number and Decimal components in the React Javascript Calculator.
 
 **Thoughts**: While numbers and decimals were the hardest things to implement in the first JavaScript Calculator, they might be the easiest thing I'll have to implement for this calculator. Due to the nature of how I created the Operator component, it's going to be difficult to find an efficient way to add operators to the stack. It's made even more complex because not all operators use their respective symbol for their value (For example, the divide symbol is the value of the divide component rather than `/`). I wonder how long it will take to finish the rest of this project, since I'm getting a bit tired of calculators.
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 62: March 9, Monday
+
+**Today's Progress**: Implemented the Operator and Equals components for the React JavaScript Calculator.
+
+**Thoughts**: My code is starting to look a little bloated and confusing since there is so much going on in the App component. The logic for the Operator and Equals components wasn't too difficult to implement, but they revealed a new problem I didn't think about. I limit the numbers that I can type to nine significant figures, but the result of the calculation can go past this limit, which I don't want. After finishing this bug, and after implementing the +/- and % operation buttons, my React JavaScript Calculator should be good to go!
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
