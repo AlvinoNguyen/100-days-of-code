@@ -770,3 +770,11 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: My code is starting to look a little bloated and confusing since there is so much going on in the App component. The logic for the Operator and Equals components wasn't too difficult to implement, but they revealed a new problem I didn't think about. I limit the numbers that I can type to nine significant figures, but the result of the calculation can go past this limit, which I don't want. After finishing this bug, and after implementing the +/- and % operation buttons, my React JavaScript Calculator should be good to go!
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 63: March 11, Wednesday
+
+**Today's Progress**: Implemented negation and percentage operator functionalities, as well as fixed floating-point bugs in the React JavaScript Calculator.
+
+**Thoughts**: Limiting the result of the calculation to nine significant digits is actually a lot more difficult than I expected. Today, I was running around confused as to why big numbers were displaying as big integers on the app, while displaying as exponentials on the console. It's because the console has a unique algorithm for printing out floating-point numbers. However, I don't know what this algorithm is, or how to implement it on the display component. Eventually, I moved on and implemented the rest of the operators, as well as fixed a few crucial bugs.
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
