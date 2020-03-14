@@ -778,3 +778,13 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 **Thoughts**: Limiting the result of the calculation to nine significant digits is actually a lot more difficult than I expected. Today, I was running around confused as to why big numbers were displaying as big integers on the app, while displaying as exponentials on the console. It's because the console has a unique algorithm for printing out floating-point numbers. However, I don't know what this algorithm is, or how to implement it on the display component. Eventually, I moved on and implemented the rest of the operators, as well as fixed a few crucial bugs.
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 64: March 13, Friday
+
+**Today's Progress**: Fixed the display formatting of small floating-point numbers in the React JavaScript Calculator.
+
+**Thoughts**: I feel like I'm almost done! In today's attempt to fix the formatting for big numbers, I ended up finding a bug relating to small numbers. First, I formatted the display value to show only nine significant digits. I had to take into account the small epsilon error of floating-point numbers, and for some reason, `Number.EPSILON` was only recognized when I typed it in the browser. Therefore, I coded its exact value in my rounding function.
+
+From there, I was almost done except for a few cases. Sometimes, the number would take the form of X,e-Y, where X was a single digit. What I wanted to do was remove the comma before the e. I was able to do this using the regular expression `/,[e-]/g` and the string replace function. I felt pretty proud of myself for fixing that bug today!
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
