@@ -788,3 +788,13 @@ Anyway, I finished up my local weather app! This project took a lot longer than 
 From there, I was almost done except for a few cases. Sometimes, the number would take the form of X,e-Y, where X was a single digit. What I wanted to do was remove the comma before the e. I was able to do this using the regular expression `/,[e-]/g` and the string replace function. I felt pretty proud of myself for fixing that bug today!
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 65: March 15, Sunday
+
+**Today's Progress**: Fixed the display formatting of large integers in the React JavaScript Calculator.
+
+**Thoughts**: I've finally wrapped up the React JavaScript Calculator, which means I can finally move on to a new project! It turns out that the function that I needed to compress large integers was the `Number.toExponential`. If I had figured out how to properly use this function a few days ago, would that have saved me days of writing and tracing through spaghetti code? I don't know, but the calculator is done and working properly now :)
+
+I have a few ideas for what my next project should be. My first idea was to make a sorting algorithm visualizer. It would be a good test of my React and CSS skills and would serve a relatively practical purpose. My other idea was to make chessboard game. I've been playing Chess recently, and I want to code up a game that would help me recognize the position of certain squares on the board faster. I might end up doing both during the 100 days, but which should I start first...?
+
+**Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
