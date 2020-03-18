@@ -798,3 +798,13 @@ From there, I was almost done except for a few cases. Sometimes, the number woul
 I have a few ideas for what my next project should be. My first idea was to make a sorting algorithm visualizer. It would be a good test of my React and CSS skills and would serve a relatively practical purpose. My other idea was to make chessboard game. I've been playing Chess recently, and I want to code up a game that would help me recognize the position of certain squares on the board faster. I might end up doing both during the 100 days, but which should I start first...?
 
 **Link to work**: [JavaScript Calculator 2](https://github.com/AlvinoNguyen/JavaScript-Calculator-2)
+
+### Day 66: March 17, Tuesday
+
+**Today's Progress**: Initialized Chess Vision React App and added basic styles to the Grid component.
+
+**Thoughts**: Unfortunately, when I checked my Github profile today, I realized that I had 0 contributions for two days in a row for the first time this year! However, that doesn't mean I've broken my streak for this 100 Days of Code challenge, even though I have been regularly skipping every other day. Trust me, after Finals Week ends, I'll have a lot more time and motivation for web development!
+
+Today's progress was pretty straightforward. I started the Chess Vision React App that I talked about last entry using React Create App, and I formatted the `src` directory to my liking. Then, I added basic structure and styling to the Grid component. I have to say: the biggest takeway I'll get from these 100 days is sharpened CSS skills, which I have been honing since the very beginning. It's getting a lot easier to style my projects, which is a good thing, because later on, I don't want to spend too much of my projects on CSS!
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
