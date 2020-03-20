@@ -808,3 +808,11 @@ I have a few ideas for what my next project should be. My first idea was to make
 Today's progress was pretty straightforward. I started the Chess Vision React App that I talked about last entry using React Create App, and I formatted the `src` directory to my liking. Then, I added basic structure and styling to the Grid component. I have to say: the biggest takeway I'll get from these 100 days is sharpened CSS skills, which I have been honing since the very beginning. It's getting a lot easier to style my projects, which is a good thing, because later on, I don't want to spend too much of my projects on CSS!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 67: March 19, Thursday
+
+**Today's Progress**: Added the basic functionality to the Chess Vision React App.
+
+**Thoughts**: Surprisingly, the basic functionality wasn't too difficult to implement even though it was a lot more involved than I expected. First, I learned that it's illegal to set the state of a component in its `render` or `componentDidMount` function, because this would lead to an infinite rendering loop. Besides this, I didn't *learn* a lot, but I did use a lot concepts that I don't have a lot of practice with. For example, I used events and classic DOM manipulation to implement the `handleSquareClick` function in order to temporarily change the styles of certain elements. Since I'm basically done with the basic functionality, all I have to do is add extra features to the app!
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
