@@ -816,3 +816,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Surprisingly, the basic functionality wasn't too difficult to implement even though it was a lot more involved than I expected. First, I learned that it's illegal to set the state of a component in its `render` or `componentDidMount` function, because this would lead to an infinite rendering loop. Besides this, I didn't *learn* a lot, but I did use a lot concepts that I don't have a lot of practice with. For example, I used events and classic DOM manipulation to implement the `handleSquareClick` function in order to temporarily change the styles of certain elements. Since I'm basically done with the basic functionality, all I have to do is add extra features to the app!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 68: March 21, Saturday
+
+**Today's Progress**: Added a prototype of the Sidebar component for the Chess Vision React App.
+
+**Thoughts**: The first thing I want to add to the Chess Vision App is a good user interface, or at least one that matches the one on [Chess.com](https://www.chess.com/). This involves a form where you can select the options for the Chess Vision game. This includes the orientation of the board with respect to the color, as well as whether you want to show coordinate helpers or not. Both of these (and the form itself) seem a bit tricky to implement, so I'll be working on this for the next few days!
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
