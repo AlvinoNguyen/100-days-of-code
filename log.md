@@ -824,3 +824,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: The first thing I want to add to the Chess Vision App is a good user interface, or at least one that matches the one on [Chess.com](https://www.chess.com/). This involves a form where you can select the options for the Chess Vision game. This includes the orientation of the board with respect to the color, as well as whether you want to show coordinate helpers or not. Both of these (and the form itself) seem a bit tricky to implement, so I'll be working on this for the next few days!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 69: March 23, Monday
+
+**Today's Progress**: Implemented primitive timing functionality to the Chess Vision React App. 
+
+**Thoughts**: It turns out that counting down from 3, 2, to 1 is a lot more difficult than it looks. When I try to set multiple timeouts, all the code runs at the same time because of asynchronous JavaScript. In other words, this means there is a pause at 3, and then it instantly goes down to 1, which is what I don't want. With how I implemented it, I am making each timeout longer than the last to compensate for asynchronous JavaScript, but there must be a better way of doing this...
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
