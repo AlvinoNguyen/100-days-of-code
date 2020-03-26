@@ -832,3 +832,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: It turns out that counting down from 3, 2, to 1 is a lot more difficult than it looks. When I try to set multiple timeouts, all the code runs at the same time because of asynchronous JavaScript. In other words, this means there is a pause at 3, and then it instantly goes down to 1, which is what I don't want. With how I implemented it, I am making each timeout longer than the last to compensate for asynchronous JavaScript, but there must be a better way of doing this...
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 70: March 25, Wednesday
+
+**Today's Progress**: Added basic game functionality to the Chess Vision React App.
+
+**Thoughts**: The better way of doing things is not much better, but it makes much more sense: Callbacks. Unfortunately, this means my code has to be super nested. If I knew a little bit more about promises, then maybe I could make my code look more elegant, but my code suffices right now. It was enough to let me code up the basic game functionality of the app. Currently, my game works, but you can't see statistics, and you can't configure the game. That's what I'll be working on for the next few days.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
