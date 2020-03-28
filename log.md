@@ -837,6 +837,14 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 
 **Today's Progress**: Added basic game functionality to the Chess Vision React App.
 
-**Thoughts**: The better way of doing things is not much better, but it makes much more sense: Callbacks. Unfortunately, this means my code has to be super nested. If I knew a little bit more about promises, then maybe I could make my code look more elegant, but my code suffices right now. It was enough to let me code up the basic game functionality of the app. Currently, my game works, but you can't see statistics, and you can't configure the game. That's what I'll be working on for the next few days.
+**Thoughts**: The better way of doing things is not much better, but it makes much more sense: Callbacks. Unfortunately, this means my code has to be super nested. If I knew a little bit more about promises, then maybe I could make my code look more elegant, but my code suffices right now. It was enough to let me code up the basic game functionality of the app.ewe Currently, my game works, but you can't see statistics, and you can't configure the game. That's what I'll be working on for the next few days.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 71: March 27, Friday
+
+**Today's Progress**: Implemented the functionality for the 'Show Coordinates' checkbox for the Chess Vision React App.
+
+**Thoughts**: Today, I coded up one of the core features of the app, but it wasn't super complicated. Most of the code I wrote involved passing down props to child componenets, setting state, and handling events. Essentially, it was all basic React. The next part might also involve only basic React, but it will be logically difficult. I have to update the chessboard squares depending on the value of the 'Color' input value. I'm excited though. This app might be my favorite project that I'm going to make in the 100 days!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
