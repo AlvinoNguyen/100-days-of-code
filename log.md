@@ -848,3 +848,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Today, I coded up one of the core features of the app, but it wasn't super complicated. Most of the code I wrote involved passing down props to child componenets, setting state, and handling events. Essentially, it was all basic React. The next part might also involve only basic React, but it will be logically difficult. I have to update the chessboard squares depending on the value of the 'Color' input value. I'm excited though. This app might be my favorite project that I'm going to make in the 100 days!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 72: March 29, Sunday
+
+**Today's Progress**: Implemented the functionality for the 'Color' selection for the Chess Vision React App.
+
+**Thoughts**: Today's code was essentially the same as the last entry with a little bit more logic involved. Surprisingly, it wasn't hard logic either, since I only had to add and change a few lines of code to make the color selection work. I guess I can thank my decent implementation of each component and the relationship between components. Essentially, I'm done with the core implementation of the app. All I need to do now is to add game statistics. That shouldn't be too hard, since I'm getting used to working with props and state.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
