@@ -856,3 +856,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Today's code was essentially the same as the last entry with a little bit more logic involved. Surprisingly, it wasn't hard logic either, since I only had to add and change a few lines of code to make the color selection work. I guess I can thank my decent implementation of each component and the relationship between components. Essentially, I'm done with the core implementation of the app. All I need to do now is to add game statistics. That shouldn't be too hard, since I'm getting used to working with props and state.
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 73: March 30, Monday
+
+**Today's Progress**: Started the Stats class for the Chess Vision React App.
+
+**Thoughts**: I was a bit distracted today, so I didn't get a lot done. However, the Stats class has been started, and I'm expecting to finish it within a day or two. After that, I might be finished with this project!
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
