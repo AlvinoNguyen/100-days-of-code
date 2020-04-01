@@ -864,3 +864,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I was a bit distracted today, so I didn't get a lot done. However, the Stats class has been started, and I'm expecting to finish it within a day or two. After that, I might be finished with this project!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 74: March 31, Tuesday
+
+**Today's Progress**: Added grid color, current coordinate, success count, and timer to the Stats component in the Chess Vision React App.
+
+**Thoughts**: Again, there wasn't too much difficulty today. There's one more feature that I plan on adding tomorrow, but it shouldn't be too difficult, since it will involve much of the same concepts that I've coded up in the past few days. One interesting thing I learned today was that `setInterval` returns an id. I always thought `setInterval` was a function that didn't return anything. This id is used for whenever you want to clear the interval using `clearInterval`.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
