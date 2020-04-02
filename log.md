@@ -872,3 +872,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Again, there wasn't too much difficulty today. There's one more feature that I plan on adding tomorrow, but it shouldn't be too difficult, since it will involve much of the same concepts that I've coded up in the past few days. One interesting thing I learned today was that `setInterval` returns an id. I always thought `setInterval` was a function that didn't return anything. This id is used for whenever you want to clear the interval using `clearInterval`.
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 75: April 1, Wednesday
+
+**Today's Progress**: Added coordinate list to the Stats component in the Chess Vision React App.
+
+**Thoughts**: I'm glad to finally announce that I am finished with all the functionality of this app! However, there are a few things that I want to change before I move on to the next project. First off, I want to replace the empty boxes with appropriate images that match the theme of the app. Then, I have to edit the CSS to make the app responsive! My guess is that I won't have to touch any JavaScript to do this, but I might also prettify the JavaScript code as a final touch.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
