@@ -880,3 +880,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I'm glad to finally announce that I am finished with all the functionality of this app! However, there are a few things that I want to change before I move on to the next project. First off, I want to replace the empty boxes with appropriate images that match the theme of the app. Then, I have to edit the CSS to make the app responsive! My guess is that I won't have to touch any JavaScript to do this, but I might also prettify the JavaScript code as a final touch.
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 76: April 3, Friday
+
+**Today's Progress**: Added responsiveness to the Grid component of the Chess Vision React App.
+
+**Thoughts**: I feel like today was a big lesson on mobile-first development and responsive design. It turns out that I can't do much when it comes to responsiveness because my styles were implemented to work on only my monitor. When it comes to CSS, generalizing is much more difficult, and at this point would involve a complete rework of the CSS for each component. However, I think there are small changes I can make to the CSS to allow it to work on most desktops. It will be slow, but it'll be worth it in my opinion.
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
