@@ -888,3 +888,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I feel like today was a big lesson on mobile-first development and responsive design. It turns out that I can't do much when it comes to responsiveness because my styles were implemented to work on only my monitor. When it comes to CSS, generalizing is much more difficult, and at this point would involve a complete rework of the CSS for each component. However, I think there are small changes I can make to the CSS to allow it to work on most desktops. It will be slow, but it'll be worth it in my opinion.
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 77: April 5, Sunday
+
+**Today's Progress**: Added vector images to the appropriate components of the Chess Vision React App.
+
+**Thoughts**: After some thinking, I have decided against trying to rework the styles and structure of the app in order to make it more responsive. I'll take this project as a lesson learned about keeping responsive design in the back of my head whenever I build something. That being said, I am proud to say that I am finished with the Chess Vision React App! This is my first big web game I've created, and I'm glad to see how it turned out. One day, I'll attempt to make this project more responsive, but that's for another day. It's time to move on with the next project!
+
+**Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
