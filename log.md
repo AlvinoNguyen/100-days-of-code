@@ -896,3 +896,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: After some thinking, I have decided against trying to rework the styles and structure of the app in order to make it more responsive. I'll take this project as a lesson learned about keeping responsive design in the back of my head whenever I build something. That being said, I am proud to say that I am finished with the Chess Vision React App! This is my first big web game I've created, and I'm glad to see how it turned out. One day, I'll attempt to make this project more responsive, but that's for another day. It's time to move on with the next project!
 
 **Link to work**: [Chess Vision](https://github.com/AlvinoNguyen/Chess-Vision)
+
+### Day 78: April 7, Tuesday
+
+**Today's Progress**: Created the skeleton components for the freeCodeCamp Pomodoro Clock App.
+
+**Thoughts**: I had two projects in mind for after the Chess Vision App: A sorting algorithm visualizer, or my personal portfolio. Considering the fact that I will be looking for a job in the near future, I should prioritize the portfolio, but the sorting algorithm visualizer seems much cooler! I decided to defer the decision and work on a freeCodeCamp project. The Pomodoro Clock App is on a much smaller scale than the Chess Vision App, meaning this shouldn't take too long. I am essentially done with the HTML parts, and can move on to coding the logic tomorrow.
+
+**Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
