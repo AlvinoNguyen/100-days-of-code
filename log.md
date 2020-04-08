@@ -904,3 +904,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I had two projects in mind for after the Chess Vision App: A sorting algorithm visualizer, or my personal portfolio. Considering the fact that I will be looking for a job in the near future, I should prioritize the portfolio, but the sorting algorithm visualizer seems much cooler! I decided to defer the decision and work on a freeCodeCamp project. The Pomodoro Clock App is on a much smaller scale than the Chess Vision App, meaning this shouldn't take too long. I am essentially done with the HTML parts, and can move on to coding the logic tomorrow.
 
 **Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
+
+### Day 79: April 8, Wednesday
+
+**Today's Progress**: Added functionality to all the components of the Pomodoro Clock App.
+
+**Thoughts**: Coding up the logic for this small app was pretty easy since the Chess Vision App gave me a ton of practice with `state` and `props`. That's not even mentioning the once-confusing (but now straightforward) `setInterval()` and `clearInterval()` functions. Tomorrow, I plan on adding styles to the page. This time, I'm coming up with my own styles, so hopefully the app won't look *too* ugly by the time I'm done.
+
+**Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
