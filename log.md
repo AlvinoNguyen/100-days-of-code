@@ -912,3 +912,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Coding up the logic for this small app was pretty easy since the Chess Vision App gave me a ton of practice with `state` and `props`. That's not even mentioning the once-confusing (but now straightforward) `setInterval()` and `clearInterval()` functions. Tomorrow, I plan on adding styles to the page. This time, I'm coming up with my own styles, so hopefully the app won't look *too* ugly by the time I'm done.
 
 **Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
+
+### Day 80: April 9, Thursday
+
+**Today's Progress**: Added the main styles to the Pomodoro Clock App.
+
+**Thoughts**: I decided to go with a minimalist appoach to the styling of this app, and it turned out pretty well! I first started off styling the only the layout of the app, and this time I didn't forget to make it responsive. Well, to be honest, I only used one media query since the app was small. Then I ended up creating another `.css` extension file that focused on the colors of the app. This means I can change the theme of my app without having to dig though the CSS layout code!
+
+**Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
