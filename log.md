@@ -920,3 +920,13 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I decided to go with a minimalist appoach to the styling of this app, and it turned out pretty well! I first started off styling the only the layout of the app, and this time I didn't forget to make it responsive. Well, to be honest, I only used one media query since the app was small. Then I ended up creating another `.css` extension file that focused on the colors of the app. This means I can change the theme of my app without having to dig though the CSS layout code!
 
 **Link to work**: [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
+
+### Day 81: April 11, Saturday
+
+**Today's Progress**: Added selection styles to the Pomodoro Clock App. Started the Sorting Visualizer App.
+
+**Thoughts**: It turns out that there wasn't much else I could do with the Pomodoro Clock, so it was time to move on to the next project. I decided that my next (and probably last, at least for the 100 days) project will be the Sorting Visualizer App that I talked about a few weeks ago. I have the general idea in my head, and I tried coding up a bit of it in a top-down approach. Instead of starting with the App component, I tried coding the child components first, but I make a mistake. I forgot that state can't be passed up to parent components! I should know better considering how long I've coded in React, but at least I know now.
+
+**Links to work**:
+1. [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
+2. [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
