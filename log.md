@@ -930,3 +930,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Links to work**:
 1. [Pomodoro Clock](https://github.com/AlvinoNguyen/Pomodoro-Clock)
 2. [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 82: April 13, Monday
+
+**Today's Progress**: Refactored code for the Sorting Visualizer App.
+
+**Thoughts**: I did a lot of tinkering with my code today. It looks like this is gonna be another project that's heavy on asynchronous concepts. I had to rework a lot of the code I did yesterday, but I was able to recycle a good amount of it too!
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
