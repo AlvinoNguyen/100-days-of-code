@@ -938,3 +938,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I did a lot of tinkering with my code today. It looks like this is gonna be another project that's heavy on asynchronous concepts. I had to rework a lot of the code I did yesterday, but I was able to recycle a good amount of it too!
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 83: April 15, Wednesday
+
+**Today's Progress**: Implemented selection sort, insertion sort, and bubble sort for the Sorting Visualizer App.
+
+**Thoughts**: I did a little bit of work after I wrote the last entry, and ended up getting the shuffle function working with a smooth animation. The animating was the hardest part because it required timeouts to happen synchronously, and the way I was able to force that was though a function that resolved a promise after some time. However, after figuring that out, the logic was pretty easy, since I've seen implemented all of these algorithms before. I also want to implement mergesort and quicksort, but they're a bit tricky. 
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
