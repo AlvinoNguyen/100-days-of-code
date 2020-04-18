@@ -946,3 +946,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I did a little bit of work after I wrote the last entry, and ended up getting the shuffle function working with a smooth animation. The animating was the hardest part because it required timeouts to happen synchronously, and the way I was able to force that was though a function that resolved a promise after some time. However, after figuring that out, the logic was pretty easy, since I've seen implemented all of these algorithms before. I also want to implement mergesort and quicksort, but they're a bit tricky. 
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 84: April 17, Friday
+
+**Today's Progress**: Implemented mergesort for the Sorting Visualizer App.
+
+**Thoughts**: It was a long day, so I went into coding super tired. However, I was able to implement all of mergesort! I decided not to go with the in-place merging algorithm for simplicity, and I think that was the right choice. For relatively small numbers, the lag caused by memory isn't too big of a deal. Next time, I'll try to implement quicksort. I've never implemented quicksort before, so this should be fun!
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
