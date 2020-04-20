@@ -954,3 +954,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: It was a long day, so I went into coding super tired. However, I was able to implement all of mergesort! I decided not to go with the in-place merging algorithm for simplicity, and I think that was the right choice. For relatively small numbers, the lag caused by memory isn't too big of a deal. Next time, I'll try to implement quicksort. I've never implemented quicksort before, so this should be fun!
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 85: April 19, Sunday
+
+**Today's Progress**: Implemented quicksort for the Sorting Visualizer App.
+
+**Thoughts**: Quicksort is actually not that bad to implement! In fact, after I wrap my head around why the partition algorithm, works, I'd see quicksort just as intuatively as mergesort! For now though, this is all the sorting algorithms I'll implement. Next time, I'll finally start working on the user interface. However, I wanna leave myself room to implement two more algorithms: Shell sort and heap sort.
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
