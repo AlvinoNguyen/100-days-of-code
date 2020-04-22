@@ -962,3 +962,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Quicksort is actually not that bad to implement! In fact, after I wrap my head around why the partition algorithm, works, I'd see quicksort just as intuatively as mergesort! For now though, this is all the sorting algorithms I'll implement. Next time, I'll finally start working on the user interface. However, I wanna leave myself room to implement two more algorithms: Shell sort and heap sort.
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 86: April 21, Tuesday
+
+**Today's Progress**: Added basic layout and styles to the Sorting Visualizer App.
+
+**Thoughts**: It feel good to be styling again! This time, I've decided to go for a simple 8-bit theme, which I think works really well with the bars. Once I style the buttons the way I want them to look, I think the entire app will look very clean! However, I do need to be more careful with the layout of my page. I might get to a point in styling where I realize that my layour isn't responsive, and I'd have to do it all over again. Hopefully it doesn't get to that point!
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
