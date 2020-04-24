@@ -970,3 +970,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: It feel good to be styling again! This time, I've decided to go for a simple 8-bit theme, which I think works really well with the bars. Once I style the buttons the way I want them to look, I think the entire app will look very clean! However, I do need to be more careful with the layout of my page. I might get to a point in styling where I realize that my layour isn't responsive, and I'd have to do it all over again. Hopefully it doesn't get to that point!
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 87: April 23, Thursday
+
+**Today's Progress**: Improved layout and added basic styles to the Sorting Visualizer App.
+
+**Thoughts**: Today's progress wasn't very interesting. I added some styles to the buttons, and I reworked the layout of the app. I decided to use CSS Grid for a lot of things instead of Flexbox, which helped a bit with the responsive design. However, I'm still having a few problems when the width goes under 800 pixels. Next time, I'll try to find a fix for that, and if I have time, I'll try to implement heapsort too.
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
