@@ -978,3 +978,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Today's progress wasn't very interesting. I added some styles to the buttons, and I reworked the layout of the app. I decided to use CSS Grid for a lot of things instead of Flexbox, which helped a bit with the responsive design. However, I'm still having a few problems when the width goes under 800 pixels. Next time, I'll try to find a fix for that, and if I have time, I'll try to implement heapsort too.
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 88: April 25, Sunday
+
+**Today's Progress**: Implemented heapsort for the Sorting Visualizer App.
+
+**Thoughts**: I didn't feel like doing CSS today, so I decided to go ahead and just implement heapsort. Again, this was my first time implementing it, but this algorithm felt a lot more simple than mergesort and quicksort. That's probably because heapsort doesn't use any recursion, and arrays can be used to represent heaps quite well. With the implementation of heapsort, I'm done with all the sorting algorithms I planned on including in this app. All I have to do is finish making the layout responsive and I'm done!
+
+**Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
