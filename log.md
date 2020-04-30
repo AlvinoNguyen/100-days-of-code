@@ -987,10 +987,18 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
 
-### Day 89: April 28, Monday
+### Day 89: April 27, Monday
 
 **Today's Progress**: Added final touches to the Sorting Visualizer App.
 
 **Thoughts**: There wasn't much left to do for the Sorting Visualizer App, so all I did today was add final touches to the project. First, I added a crude locking mechanisms to each of the buttons. Now, every time a button is clicked, a flag is set which makes sure no other button can be pressed until the algorithm is done running. I also added a few styles and fixed the layout of the page when viewed on a mobile device. I thought this project would take longer than this, and now I need to think of something to work on for the last 11 days of this challenge...
 
 **Link to work**: [Visual Sort](https://github.com/AlvinoNguyen/Visual-Sort)
+
+### Day 90: April 29, Wednesday
+
+**Today's Progress**: Started my personal portfolio webpage.
+
+**Thoughts**: It's about time that I made myself a website! I was feeling a bit uncreative today, so I decided to go with a super minimal look and just focus on the layout. I have a navigation bar, a header, and a few extra sections so far. If I'm still gonna go for minimal, that might be all I need! 
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
