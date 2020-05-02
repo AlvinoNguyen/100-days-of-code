@@ -1002,3 +1002,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: It's about time that I made myself a website! I was feeling a bit uncreative today, so I decided to go with a super minimal look and just focus on the layout. I have a navigation bar, a header, and a few extra sections so far. If I'm still gonna go for minimal, that might be all I need! 
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 91: May 1, Friday
+
+**Today's Progress**: Added a viewport event handler to my personal portfolio webpage.
+
+**Thoughts**: I forgot to mention last time; I'm going back to basics and using only pure HTML, CSS, and JavaScript for my portfolio. I don't imagine that my website will have much interactivity, so it's probably best if I keep things as simple as possible. That being said, I'm pretty proud of the feature I implemented today! I coded an event handler to check to element visibility, meaning I can run code in response to something popping up on the page. My plan is to use it to make the styling on my website more dynamic.
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
