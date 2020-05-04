@@ -1010,3 +1010,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I forgot to mention last time; I'm going back to basics and using only pure HTML, CSS, and JavaScript for my portfolio. I don't imagine that my website will have much interactivity, so it's probably best if I keep things as simple as possible. That being said, I'm pretty proud of the feature I implemented today! I coded an event handler to check to element visibility, meaning I can run code in response to something popping up on the page. My plan is to use it to make the styling on my website more dynamic.
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 92: May 3, Sunday
+
+**Today's Progress**: Refactored CSS in my personal portfolio page.
+
+**Thoughts**: I've realized that if I'm gonna use this page as my professional website, responsiveness should be the top priority. Therefore, I spent my hour refactoring the CSS to make the layout as responsive as possible. I also decided that I want to make my theme a little less minimal, so I plan on adding some animations to the home section.
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
