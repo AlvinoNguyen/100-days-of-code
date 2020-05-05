@@ -1018,3 +1018,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I've realized that if I'm gonna use this page as my professional website, responsiveness should be the top priority. Therefore, I spent my hour refactoring the CSS to make the layout as responsive as possible. I also decided that I want to make my theme a little less minimal, so I plan on adding some animations to the home section.
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 93: May 4, Monday
+
+**Today's Progress**: Added Alvinoraptor to the home page of my personal portfolio page.
+
+**Thoughts**: I decided to add a tribute to one of my first web pages. A few months ago, I was given a challenge to make a web page with a dinosaur, and thus Alvinoraptor was born. Surprisingly, it's still one of my best designed pages. Unfortunately, I made it before I cared about responsive design, and importing the code over to the portfolio meant that I had to make some subtle changes. However, things look good now on both desktop and mobile! I also decided to put all the Alvinoraptor CSS into its own file so that no file becomes too big.
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
