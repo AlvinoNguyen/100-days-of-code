@@ -1026,3 +1026,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: I decided to add a tribute to one of my first web pages. A few months ago, I was given a challenge to make a web page with a dinosaur, and thus Alvinoraptor was born. Surprisingly, it's still one of my best designed pages. Unfortunately, I made it before I cared about responsive design, and importing the code over to the portfolio meant that I had to make some subtle changes. However, things look good now on both desktop and mobile! I also decided to put all the Alvinoraptor CSS into its own file so that no file becomes too big.
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 94: May 5, Wednesday
+
+**Today's Progress**: Added a cactus background to the resume section of my personal portfolio page.
+
+**Thoughts**: I was half eating and half coding during my hour of code today, so I didn't get a lot done. However, I was able to add this nice cactus background to the resume section. I also refactored a bit of the CSS again, so things are a lot more organized. At this point, the best thing for me to do is to work on the actual content of my website.
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
