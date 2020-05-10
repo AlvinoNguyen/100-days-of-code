@@ -1027,10 +1027,18 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
 
-### Day 94: May 5, Wednesday
+### Day 94: May 6, Wednesday
 
 **Today's Progress**: Added a cactus background to the resume section of my personal portfolio page.
 
 **Thoughts**: I was half eating and half coding during my hour of code today, so I didn't get a lot done. However, I was able to add this nice cactus background to the resume section. I also refactored a bit of the CSS again, so things are a lot more organized. At this point, the best thing for me to do is to work on the actual content of my website.
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 95: May 8, Friday
+
+**Today's Progress**: Added a profile picture to the About Me section of my personal portfolio page.
+
+**Thoughts**: Today was really stressful, so I didn't get much done in my hour of code. However, I learned about the CSS `float` property today, which is what I used to format my profile picture. Apparently, it lets you wrap images around text, and it seems to be the only property that does this. It's strange though, since I always thought that `float` was more of a legacy feature.
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
