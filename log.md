@@ -1042,3 +1042,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Today was really stressful, so I didn't get much done in my hour of code. However, I learned about the CSS `float` property today, which is what I used to format my profile picture. Apparently, it lets you wrap images around text, and it seems to be the only property that does this. It's strange though, since I always thought that `float` was more of a legacy feature.
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 96: May 10, Sunday
+
+**Today's Progress**: Added my resume to the portfolio.
+
+**Thoughts**: It's pretty funny that I'm doing a lot less coding now that I'm wrapping up the 100 Days of Code. Today, I decided to finally make my resume link work, which involved putting a sweet resume together. I really liked how it turned out, but I know that it could be much better. For now, I'm glad that I finally have projects under my belt that I can put on a resume!
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
