@@ -1050,3 +1050,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: It's pretty funny that I'm doing a lot less coding now that I'm wrapping up the 100 Days of Code. Today, I decided to finally make my resume link work, which involved putting a sweet resume together. I really liked how it turned out, but I know that it could be much better. For now, I'm glad that I finally have projects under my belt that I can put on a resume!
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 97: May 12, Tuesday
+
+**Today's Progress**: Added first draft text to the About Me and Projects section to my personal portfolio.
+
+**Thoughts**: Again, there wasn't much intersting coding today. All I did was edit some text in the HTML page so that it isn't Lorem ipsum. After this, I think I should add some social media links, but that shouldn't take three days...
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
