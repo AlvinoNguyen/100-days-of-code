@@ -1058,3 +1058,15 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 **Thoughts**: Again, there wasn't much intersting coding today. All I did was edit some text in the HTML page so that it isn't Lorem ipsum. After this, I think I should add some social media links, but that shouldn't take three days...
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 98: May 14, Thursday
+
+**Today's Progress**: Deployed my personal portfolio, Random Quote Machine, and Visual Sort projects to Github pages.
+
+**Thoughts**: I finally got over my fear of building and deploying a project! I always thought that it was difficult to build and deploy something, but the Create React App tutorial is surprisingly straightforward. This should have been something I did a long time ago. In fact, I should have done this with all my projects, however it's better late than never! Now, you can view my projects without having to download them!
+
+**Links to work**:
+1. [Personal Portfolio](https://alvinonguyen.github.io/Personal-Portfolio/)
+2. [Random Quote Machine 2](https://alvinonguyen.github.io/Random-Quote-Machine-2/)
+3. [Pomodoro Clock](https://alvinonguyen.github.io/Pomodoro-Clock/)
+4. [Visual Sort](https://alvinonguyen.github.io/Visual-Sort/)
