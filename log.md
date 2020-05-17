@@ -1070,3 +1070,11 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 2. [Random Quote Machine 2](https://alvinonguyen.github.io/Random-Quote-Machine-2/)
 3. [Pomodoro Clock](https://alvinonguyen.github.io/Pomodoro-Clock/)
 4. [Visual Sort](https://alvinonguyen.github.io/Visual-Sort/)
+
+### Day 99: May 16, Saturday
+
+**Today's Progress**: Added project icons to me personal portfolio.
+
+**Thoughts**: The last thing I'm gonna add to my personal portfolio for now are links to view my other projects. However, I think it would be super boring to have a list of links, so I decided to create icons for each of my projects. I added some initial CSS to make it look nice, but it isn't responsive yet, so I don't wanna display it on my website just yet. That means for the first time during these 100 days, I won't be pushing my changes... yet!
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
