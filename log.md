@@ -1073,8 +1073,20 @@ Today's progress was pretty straightforward. I started the Chess Vision React Ap
 
 ### Day 99: May 16, Saturday
 
-**Today's Progress**: Added project icons to me personal portfolio.
+**Today's Progress**: Added project icons to my personal portfolio.
 
 **Thoughts**: The last thing I'm gonna add to my personal portfolio for now are links to view my other projects. However, I think it would be super boring to have a list of links, so I decided to create icons for each of my projects. I added some initial CSS to make it look nice, but it isn't responsive yet, so I don't wanna display it on my website just yet. That means for the first time during these 100 days, I won't be pushing my changes... yet!
+
+**Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
+
+### Day 100: May 18, Saturday
+
+**Today's Progress**: Made project icons responsive in my personal portfolio.
+
+**Thoughts**: Today, I tried adding an animation to the project icons that involved rotations. The problem was that if you stopped hovering over the image (which might happen without you moving the mouse because of the rotation), the animation would completely stop. The way I fixed this was using a JavaScript event handler, which added the animation for half a second, and then took it away so that the animation would play anytime the user hovered over with the mouse.
+
+If anybody is reading this, we did it. We made it through the 100 Days of Code challenge! This was quite the journey, and it has definitely made me a better programmer, especially when it comes to front end! However, it started to feel limiting towards the end, as it felt like I didn't have time to look up tutorials for things I wanted to learn (for example, Redux, MongoDB, etc.). I still felt obligated to code something since I code at least every other day, so I coded in what I am (and probably will always be) comfortable in: HTML, CSS, JavaScript, and React.
+
+Towards the end, I was skipping every other day because the challenge allowed it, but if I were to do this again, I'd try my best to maintain the every day rule. It feels like I never have time for anything in college, but I'm glad that I made time for this. Who knows? Maybe during a time when I'm not so busy (like this summer!), I'll pick this up again!
 
 **Link to work**: [Personal Portfolio](https://github.com/AlvinoNguyen/Personal-Portfolio)
