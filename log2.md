@@ -15,3 +15,11 @@
 **Thoughts**: I spent part of my morning skimming and taking light notes on the official Python documentation tutorials, which I think should give me a good feel for the structure and best practices of Python programs. I immediately put it into practice by forking MCsniperPY, a python-based open-source Minecraft name sniper that's in desperate need of refactoring. This might not be the best use of my hour of code, but I'm glad to find a way apply my recreational life to my professional one. Plus, I wanna boost my GitHub statistics, and I have a shortage of pull requests, issues, and contributions!
 
 **Link to work**: [AlvinoNguyen/MCsniperPY](https://github.com/AlvinoNguyen/MCsniperPY)
+
+### Day 3: November 3, Tuesday
+
+**Today's Progress**: More refactoring code in MCsniperPY fork.
+
+**Thoughts**: Today's progress was similar to yesterday, so I'm still being productive in my opinion. However, my 100 Days of Code could drag if I let this be the only project that I work on, so tomorrow, I want to try to start on a new personal project. I won't make any promises though, since it's midterm season, and I'm pretty busy.
+
+**Link to work**: [AlvinoNguyen/MCsniperPY](https://github.com/AlvinoNguyen/MCsniperPY)
