@@ -31,3 +31,9 @@
 **Thoughts**: I tried running MCsniperPY today when it gave me a bug I'd never seen before. I started my own name sniping program and found the same error. A bit of experimenting led me to believe that Mojang made a change to the 'GET players' API. I tried a for a little, but I couldn't find a workaround, which was a shame since this would have been a good excuse to put in a pull request. Maybe I could create an issue and improve my issue counts instead. Is a lof of excuses a good thing?
 
 **Link to work**: [AlvinoNguyen/MCsniperPY](https://github.com/AlvinoNguyen/MCsniperPY)
+
+### Day 5: November 5, Thursday
+
+**Today's Progress**: Interviewed for a Humana Tech internship.
+
+**Thoughts**: Today, I had an interview at 4:30 pm for Humana. Although I'm not too optimistic on how I did during the half hour, I can still be proud that I made the interview happen by applying for internships in my free time. Unfortunately, I don't think I'm getting a response from the other places I applied to, so it might be time to start applying again. Also, I should practice getting interviewed as well.
