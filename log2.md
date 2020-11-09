@@ -45,3 +45,11 @@
 **Thoughts**: Not much to say today... It was pretty easy work similar to what I was doing a few days ago. I think I'll be ready to create a pull request for my changes by the end of the weekend.
 
 **Link to work**: [AlvinoNguyen/MCsniperPY](https://github.com/AlvinoNguyen/MCsniperPY)
+
+### Day 7: November 8, Sunday
+
+**Today's Progress**: More refactoring code in MCsniperPY fork. Looked a bit into Github issues and pull requests.
+
+**Thoughts**: Unfortunately, I didn't log yesterday, so I'm gonna make the rules a bit more leniant to allow myself to continue the challenge. Now, I'm not allowed to miss two days in a row. I'm gonna suggest that the day after a missed entry, I should work for at least two hours to make up for the skipped entry. Anyway, today was jsut some more code refactoring. I think I'm at the point where I can submit a pull request, but I wanna make sure I know the in's and out's of issues and pull requests before I go and embarass myself. It seems pretty straightforward from what I've read, so let's submit that PR tomorrow!
+
+**Link to work**: [AlvinoNguyen/MCsniperPY](https://github.com/AlvinoNguyen/MCsniperPY)
