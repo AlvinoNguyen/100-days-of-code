@@ -59,3 +59,11 @@
 **Today's Progress**: Took notes on Github issues and pull requests.
 
 **Thoughts**: No coding today, however, I'm sure the notes I took today will pay off later when I'm a software engineer using Github to contribute to big projects. I wish I had submitted my pull request for McsniperPY today, but it's super late at this point, so I plan on posting it tomorrow. No promises though; this week has been super busy for me!
+
+### Day 9: November 12, Thursday
+
+**Today's Progress**: Created a pull request on [Kqzz/MCsniperPY](https://github.com/Kqzz/MCsniperPY). Also added user replies for pull requests and issues.
+
+**Thoughts**: Again, no coding today, but this was also my first day submitting a pull request for an open-source project, so that's good! I don't think my pull request will be reviewed though, so it mgiht be time to move onto something else. In the meantime, I added reply shortcuts to my Github profile. The point is to semi-automate Github posts and comments, and I created a template for pull requests and issues. Those should come in handy in the future, right? 
+
+**Link to work**: [Kqzz/MCsniperPY](https://github.com/Kqzz/MCsniperPY/pull/16)
