@@ -67,3 +67,9 @@
 **Thoughts**: Again, no coding today, but this was also my first day submitting a pull request for an open-source project, so that's good! I don't think my pull request will be reviewed though, so it mgiht be time to move onto something else. In the meantime, I added reply shortcuts to my Github profile. The point is to semi-automate Github posts and comments, and I created a template for pull requests and issues. Those should come in handy in the future, right? 
 
 **Link to work**: [Kqzz/MCsniperPY](https://github.com/Kqzz/MCsniperPY/pull/16)
+
+### Day 10: November 14, Saturday
+
+**Today's Progress**: Started looking into tutorials on creating Discord and Telegram bots.
+
+**Thoughts**: I don't know what suddenly made me interested in bots, but I really wanna make one! Luckily, both Discord and Telegram bots can be created using Node. I'm a bit disappointed that it took this long for me to start up a project, but hey, better late than never. so far, the plan is to start off with a light-hearted Telegram bot to put in my friends' group chat, and then create a more practical bot for Discord. Let's see where this goes!
