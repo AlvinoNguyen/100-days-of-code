@@ -73,3 +73,13 @@
 **Today's Progress**: Started looking into tutorials on creating Discord and Telegram bots.
 
 **Thoughts**: I don't know what suddenly made me interested in bots, but I really wanna make one! Luckily, both Discord and Telegram bots can be created using Node. I'm a bit disappointed that it took this long for me to start up a project, but hey, better late than never. so far, the plan is to start off with a light-hearted Telegram bot to put in my friends' group chat, and then create a more practical bot for Discord. Let's see where this goes!
+
+### Day 11: November 16, Monday
+
+**Today's Progress**: Initalized the Telegram bot repository and added starter code to the project.
+
+**Thoughts**: Today was big milestone for me professionally. I got my first software engineering internship offer! Honestly, I didn't expect to get it one so soon, which is why I started up this challenge again, but I'm glad I did, since it takes a lot of stress off my back... for now at least. However, I've already committed myself to this, so I'm gonna keep going!
+
+A combination of prior Node knowledge and prior reading of documentation is gonna make this project go by really fast. I spent about half an hour setting the entire project up, and spent the other half hour experimenting with the API. Everything is really straightforward, and it doesn't look like I'll run into many major problems. Looks like I'll have to come up with a new project idea sooner than I thought!
+
+**Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
