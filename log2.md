@@ -83,3 +83,11 @@
 A combination of prior Node knowledge and prior reading of documentation is gonna make this project go by really fast. I spent about half an hour setting the entire project up, and spent the other half hour experimenting with the API. Everything is really straightforward, and it doesn't look like I'll run into many major problems. Looks like I'll have to come up with a new project idea sooner than I thought!
 
 **Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
+
+### Day 12: November 18, Wednesday
+
+**Today's Progress**: Added five new event branches to the Telegram bot.
+
+**Thoughts**: Today was pretty casual; it was a lot of API documentation reading and experimenting, and everything is still pretty straightforward. In fact, it's so straightforward that it's probably time to move onto another project... or at least start on the Discord bot.
+
+**Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
