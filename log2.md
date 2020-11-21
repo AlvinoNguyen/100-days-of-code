@@ -91,3 +91,11 @@ A combination of prior Node knowledge and prior reading of documentation is gonn
 **Thoughts**: Today was pretty casual; it was a lot of API documentation reading and experimenting, and everything is still pretty straightforward. In fact, it's so straightforward that it's probably time to move onto another project... or at least start on the Discord bot.
 
 **Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
+
+### Day 13: November 20, Friday
+
+**Today's Progress**: Added the ShrekLitoris event handler to the Telegram bot.
+
+**Thoughts**: Again, today was casual. I'm starting to feel like I'm getting really lazy with this 100 Days of Code challenege, so I'm gonna try to set aside some time during the day to code. Hopefully, I begin to start writing more meaningful code.
+
+**Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
