@@ -99,3 +99,9 @@ A combination of prior Node knowledge and prior reading of documentation is gonn
 **Thoughts**: Again, today was casual. I'm starting to feel like I'm getting really lazy with this 100 Days of Code challenege, so I'm gonna try to set aside some time during the day to code. Hopefully, I begin to start writing more meaningful code.
 
 **Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
+
+### Day 13: November 22, Sunday
+
+**Today's Progress**: Thought of new bot ideas.
+
+**Thoughts**: Today, I attempted to implement something new for my Telegram bot, but I was running low on new ideas. It seems like I've already done all of the hard coding work, and all I need to do now is think of inside jokes to insert into the code, and that's not necessarily helping me get more familiar with Node. Therefore, I spent today thinking about ideas for practical bots for Telegram. I settled on an idea that I plan to implement tomorrow, but I'll keep it a secret for now.
