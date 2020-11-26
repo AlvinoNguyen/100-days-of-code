@@ -100,8 +100,16 @@ A combination of prior Node knowledge and prior reading of documentation is gonn
 
 **Link to work**: [Jeff Bot](https://github.com/AlvinoNguyen/Jeff-Bot)
 
-### Day 13: November 22, Sunday
+### Day 14: November 22, Sunday
 
 **Today's Progress**: Thought of new bot ideas.
 
 **Thoughts**: Today, I attempted to implement something new for my Telegram bot, but I was running low on new ideas. It seems like I've already done all of the hard coding work, and all I need to do now is think of inside jokes to insert into the code, and that's not necessarily helping me get more familiar with Node. Therefore, I spent today thinking about ideas for practical bots for Telegram. I settled on an idea that I plan to implement tomorrow, but I'll keep it a secret for now.
+
+### Day 15: November 25, Wednesday
+
+**Today's Progress**: Initialied Pomodoro Clock Telegram Bot repository and added basic functionality.
+
+**Thoughts**: Behold, my Pomodoro Clock Bot. This is a Telegram bot that serves as a Pomodoro Clock. In my last 100 Days of Code, I made a similar project using React, so I already knew the functionality I needed to implement. However, things are tricker than I anticipated. Since I'm not coding a web page, I have to account for multiple users. Also, doing everything in Node requires a lot of asynchronous Javascript knowledge, so I'm getting practice with that too.
+
+**Link to work**: [Pomodoro Clock Bot](https://github.com/AlvinoNguyen/pomodoro-clock-bot)
