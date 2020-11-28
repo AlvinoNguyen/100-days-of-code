@@ -113,3 +113,11 @@ A combination of prior Node knowledge and prior reading of documentation is gonn
 **Thoughts**: Behold, my Pomodoro Clock Bot. This is a Telegram bot that serves as a Pomodoro Clock. In my last 100 Days of Code, I made a similar project using React, so I already knew the functionality I needed to implement. However, things are tricker than I anticipated. Since I'm not coding a web page, I have to account for multiple users. Also, doing everything in Node requires a lot of asynchronous Javascript knowledge, so I'm getting practice with that too.
 
 **Link to work**: [Pomodoro Clock Bot](https://github.com/AlvinoNguyen/pomodoro-clock-bot)
+
+### Day 16: November 27, Friday
+
+**Today's Progress**: Added a /help command to the Pomodoro Clock Telegram Bot.
+
+**Thoughts**: Not a lot of progress made today, but it's alright, because I'm almost done with this bot! All I wanna do now is handle errors and edge cases, and then I can move on to the next project, whatever that may be.
+
+**Link to work**: [Pomodoro Clock Bot](https://github.com/AlvinoNguyen/pomodoro-clock-bot)
